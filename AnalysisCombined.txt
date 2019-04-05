@@ -1,0 +1,791 @@
+UserID	Person	Age	Duration	Symptom (priority 1)	Cat	Symptom (priority 2)	Cat	Symptoms (priority 3)	Cat
+79575340	I have Parkinson's	30-49	6-10 years ago	Freezing	Freezing	Better treatments	Better treatments	Moving in bed	Movement
+79575474	I have Parkinson's	60-69	2-5 years ago	Tiredness	Fatigue and energy	Better care	Better care	Cure	Cure
+79575663	I have Parkinson's	70-79	2-5 years ago	Stiffness	Stiffness	Anxiety	Psychological health	Sense of smell	Physiological changes
+79575809	I have Parkinson's	50-59	2-5 years ago	Fatigue	Fatigue and energy	Bowel	Bladder and Bowel problems	Cognitive impairment	Cognitive function
+79575710	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Dystonia	Dystonia	 - 	
+79575944	I have Parkinson's	50-59	6-10 years ago	Loss of independence	Maintaining independence 	Movement	Movement	Anxiety, Falls	Balance and falls, Psychological health
+79576069	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Slowness	Slowness	Cognitive impairment	Cognitive function
+79576062	I have Parkinson's	30-49	2-5 years ago	Dystonia	Dystonia	Tremor	Tremor	Incontinence	Bladder and Bowel problems
+79575507	I have Parkinson's	70-79	6-10 years ago	Dystonia	Dystonia	Sleep	Sleep problems	Memory	Cognitive function
+79575531	I have Parkinson's	70-79	6-10 years ago	Medication wearing off	Medication wearing off	Sleep	Sleep problems	Fatigue, Stiffness	Stiffness, Fatigue and energy
+79576259	I have Parkinson's	50-59	11-20 years ago	Apathy	Psychological health	Depression	Psychological health	Slowness	Slowness
+79576256	I have Parkinson's	60-69	2-5 years ago	Walking	Walking	Tremor	Tremor	Fatigue	Fatigue and energy
+79576312	I have Parkinson's	50-59	2-5 years ago	Pain	Pain and unpleasant sensations	Bladder	Bladder and Bowel problems	Movement	Movement
+79576140	I have Parkinson's	70-79	2-5 years ago	Cure	Cure	Slowness, Cognitive impairment	Slowness, Cognitive function	 - 	
+79576520	I have Parkinson's	50-59	2-5 years ago	Cure	Cure	Smell	Physiological changes	Fatigue	Fatigue and energy
+79576614	I have Parkinson's	60-69	Less than 2 years ago	Tremor	Tremor	Stiffness	Stiffness	Side effects, Skin 	Physiological changes, Side effects of medication
+79576492	I have Parkinson's	50-59	2-5 years ago	Movement	Movement	Dexterity	Dexterity and coordination	Anxiety	Psychological health
+79575735	I have Parkinson's	50-59	6-10 years ago	Dyskinesia	Dyskinesia	Fatigue	Fatigue and energy	Dexterity	Dexterity and coordination
+79576544	I have Parkinson's	50-59	Less than 2 years ago	Sleep	Sleep problems	Dexterity	Dexterity and coordination	Tremor	Tremor
+79576584	I have Parkinson's	60-69	2-5 years ago	Weakness, Fatigue	Weakness, Fatigue and energy	Sleep	Sleep problems	Cognitive impairment	Cognitive function
+79576816	I have Parkinson's	70-79	More than 20 years ago	Walking	Walking	Freezing	Freezing	Dyskinesia	Dyskinesia
+79577406	I have Parkinson's	30-49	2-5 years ago	Sleep	Sleep problems	Fatigue	Fatigue and energy	Pain	Pain and unpleasant sensations
+79577258	I have Parkinson's	60-69	6-10 years ago	Stiffness	Stiffness	Balance	Balance and falls	Speech	Speech
+79577480	I have Parkinson's	Over 80	11-20 years ago	Balance	Balance and falls	Walking	Walking	Speech	Speech
+79577500	I have Parkinson's	70-79	2-5 years ago	Pain	Pain and unpleasant sensations	Stiffness	Stiffness	Coordination	Dexterity and coordination
+79577149	I have Parkinson's	70-79	6-10 years ago	Speech	Speech	Pain	Pain and unpleasant sensations	Eating and swallowing	Eating and swallowing
+79577377	I have Parkinson's	70-79	More than 20 years ago	Walking	Walking	Speech	Speech	Dyskinesia	Dyskinesia
+79577673	I have Parkinson's	60-69	6-10 years ago	Sleep	Sleep problems	Sleep	Sleep problems	Sleep	Sleep problems
+79577511	I have Parkinson's	60-69	2-5 years ago	U	Uncategorisable	-		 - 	
+79577804	I have Parkinson's	70-79	2-5 years ago	Stiffness	Stiffness	Dexterity	Dexterity and coordination	Daytime sleepiness	Sleep problems
+79578104	I have Parkinson's	50-59	11-20 years ago	Sleep	Sleep problems	Anxiety	Psychological health	Slowness	Slowness
+79578231	I have Parkinson's	50-59	Less than 2 years ago	Pain	Pain and unpleasant sensations	Dystonia	Dystonia	Restless legs	Pain and unpleasant sensations
+79578388	I have Parkinson's	70-79	2-5 years ago	Stiffness	Stiffness	Tremor	Tremor	Pain	Pain and unpleasant sensations
+79578064	I have Parkinson's	60-69	2-5 years ago	Stiffness	Stiffness	Fatigue	Fatigue and energy	Better treatments	Better treatments
+79578574	I have Parkinson's	50-59	Less than 2 years ago	Fatigue	Fatigue and energy	Depression	Psychological health	Tremor	Tremor
+79577800	I have Parkinson's	50-59	2-5 years ago	Walking	Walking	Freezing	Freezing	Pain	Pain and unpleasant sensations
+79578882	I have Parkinson's	60-69	6-10 years ago	Tremor	Tremor	Memory	Cognitive function	Movement	Movement
+79579007	I have Parkinson's	Over 80	2-5 years ago	Freezing	Freezing	Dexterity	Dexterity and coordination	Saliva problems	Physiological changes
+79579381	I have Parkinson's	30-49	Less than 2 years ago	Movement	Movement	Pain	Pain and unpleasant sensations	Movement	Movement
+79579404	I have Parkinson's	70-79	6-10 years ago	Walking	Walking	Tremor, Side effects of medication	Tremor, Side effects of medication	Dexterity	Dexterity and coordination
+79577951	I have Parkinson's	60-69	2-5 years ago	Stiffness, Pain	Stiffness, Pain and unpleasant sensations	Tremor	Tremor	Dystonia	Dystonia
+79578306	I have Parkinson's	60-69	6-10 years ago	U	Uncategorisable	Freezing, Anxiety	Freezing, Psychological health	Better treatments	Better treatments
+79579468	I have Parkinson's	60-69	6-10 years ago	Posture	Posture	Eating and swallowing	Eating and swallowing	Bowel	Bladder and Bowel problems
+79579230	I have Parkinson's	Over 80	11-20 years ago	Walking	Walking	Balance	Balance and falls	Stiffness	Stiffness
+79579748	I have Parkinson's	50-59	6-10 years ago	Tremor	Tremor	Anxiety	Psychological health	Depression	Psychological health
+79579694	I have Parkinson's	70-79	2-5 years ago	Fatigue	Fatigue and energy	Cognitive impairment	Cognitive function	Dexterity	Dexterity and coordination
+79579689	I have Parkinson's	60-69	2-5 years ago	Dyskinesia	Dyskinesia	Better treatments	Better treatments	Side effects of medication	Side effects of medication
+79578337	I have Parkinson's	70-79	2-5 years ago	Tiredness	Fatigue and energy	Apathy	Psychological health	Tremor	Tremor
+79580904	I have Parkinson's	50-59	Less than 2 years ago	Dexterity	Dexterity and coordination	Slowness, Walking	Walking, Slowness	Sleep	Sleep problems
+79580955	I have Parkinson's	70-79	6-10 years ago	Balance	Balance and falls	Pain	Pain and unpleasant sensations	Weakness	Weakness
+79580546	I have Parkinson's	60-69	Less than 2 years ago	Cognitive impairment	Cognitive function	Walking	Walking	Balance	Balance and falls
+79580934	I have Parkinson's	70-79	6-10 years ago	Movement	Movement	Hallucinations and psychosis	Psychological health	Tremor	Tremor
+79580747	I have Parkinson's	70-79	2-5 years ago	Falls, Balance	Balance and falls	Eyes and vision	Physiological changes	Sleep	Sleep problems
+79581534	I have Parkinson's	60-69	11-20 years ago	Side effects	Side effects of medication	Saliva problems	Physiological changes	Medication wearing off	Medication wearing off
+79581717	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Bladder	Bladder and Bowel problems	Eating and swallowing	Eating and swallowing
+79581731	I have Parkinson's	70-79	6-10 years ago	Balance	Balance and falls	Memory	Cognitive function	Anxiety	Psychological health
+79581927	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Slowness	Slowness	Fatigue	Fatigue and energy
+79578958	I have Parkinson's	70-79	2-5 years ago	Movement	Movement	Dexterity	Dexterity and coordination	Speech	Speech
+79581781	I have Parkinson's	70-79	2-5 years ago	Slowness	Slowness	Dexterity	Dexterity and coordination	Sleep	Sleep problems
+79581899	I have Parkinson's	70-79	2-5 years ago	Bowel	Bladder and Bowel problems	Stiffness, Sleep	Stiffness, Sleep problems	Cognitive impairment	Cognitive function
+79576068	I have Parkinson's	70-79	2-5 years ago	Cognitive impairment	Cognitive function	Sleep	Sleep problems	Dexterity	Dexterity and coordination
+79582462	I have Parkinson's	60-69	6-10 years ago	Movement, Walking	Movement, Walking	Movement, Dexterity	Movement, Dexterity and coordination	Tiredness	Fatigue and energy
+79582807	I have Parkinson's	60-69	2-5 years ago	Balance	Balance and falls	Pain	Pain and unpleasant sensations	Cognitive impairment	Cognitive function
+79582687	I have Parkinson's	60-69	6-10 years ago	Freezing	Freezing	Pain	Pain and unpleasant sensations	Weakness	Weakness
+79582919	I have Parkinson's	60-69	2-5 years ago	Confidence	Psychological health	Memory	Cognitive function	Tremor	Tremor
+79582582	I have Parkinson's	Over 80	11-20 years ago	Falls, Balance	Balance and falls	Better treatments	Better treatments	Movement	Movement
+79582456	I have Parkinson's	70-79	6-10 years ago	Balance	Balance and falls	Saliva problems	Physiological changes	Speech	Speech
+79583541	I have Parkinson's	60-69	Less than 2 years ago	Stiffness	Stiffness	Pain	Pain and unpleasant sensations	Tremor	Tremor
+79583527	I have Parkinson's	60-69	6-10 years ago	Walking, Fitness	Walking, Fatigue and energy	Movement	Movement	Walking	Walking
+79582643	I have Parkinson's	60-69	2-5 years ago	Balance	Balance and falls	Movement	Movement	Speech	Speech
+79582809	I have Parkinson's	60-69	11-20 years ago	Speech	Speech	Better treatments	Better treatments	 - 	
+79583888	I have Parkinson's	70-79	6-10 years ago	Balance	Balance and falls	Saliva problems	Physiological changes	Speech	Speech
+79584058	I have Parkinson's	70-79	6-10 years ago	Posture	Posture	Eating and swallowing	Eating and swallowing	 - 	
+79584128	I have Parkinson's	30-49	2-5 years ago	Dyskinesia	Dyskinesia	Better treatments	Better treatments	Pain	Pain and unpleasant sensations
+79584234	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Slowness	Slowness	U	Uncategorisable
+79584690	I have Parkinson's	70-79	2-5 years ago	Movement 	Movement	Pain	Pain and unpleasant sensations	Walking	Walking
+79585040	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Cognitive impairment	Cognitive function	Movement	Movement
+79584747	I have Parkinson's	70-79	2-5 years ago	Balance	Balance and falls	Freezing	Freezing	Sleep	Sleep problems
+79585222	I have Parkinson's	70-79	2-5 years ago	Tiredness	Fatigue and energy	Dexterity	Dexterity and coordination	Balance	Balance and falls
+79586404	I have Parkinson's	70-79	6-10 years ago	Psychological impact	Psychological health	Psychological impact	Psychological health	Speech	Speech
+79586649	I have Parkinson's	Over 80	Less than 2 years ago	Movement	Movement	 - 		 - 	
+79586297	I have Parkinson's	50-59	2-5 years ago	Tremor	Tremor	Sleep	Sleep problems	Mood	Psychological health
+79587605	I have Parkinson's	60-69	6-10 years ago	Sleep	Sleep problems	Pain	Pain and unpleasant sensations	 - 	
+79587763	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Stiffness	Stiffness	 - 	
+79587576	I have Parkinson's	60-69	2-5 years ago	Apathy	Psychological health	Stiffness	Stiffness	Slowness, Coordination	Dexterity and coordination, Slowness
+79587615	I have Parkinson's	60-69	2-5 years ago	Anxiety	Psychological health	Pain	Pain and unpleasant sensations	Dexterity	Dexterity and coordination
+79587830	I have Parkinson's	50-59	6-10 years ago	Saliva problems	Physiological changes	Tremor	Tremor	Weakness	Weakness
+79588167	I have Parkinson's	50-59	2-5 years ago	Cure	Cure	Cure	Cure	Side effects of medication	Side effects of medication
+79588757	I have Parkinson's	60-69	Less than 2 years ago	Dexterity	Dexterity and coordination	Slowness	Slowness	Cognitive impairment, Anxiety	Psychological health, Cognitive function
+79588565	I have Parkinson's	70-79	11-20 years ago	Movement 	Movement	Stiffness	Stiffness	Sleep	Sleep problems
+79588669	I have Parkinson's	70-79	6-10 years ago	Walking, Medication wearing off	Walking, Medication wearing off	Falls	Balance and falls	Dexterity	Dexterity and coordination
+79588909	I have Parkinson's	60-69	Less than 2 years ago	Tremor	Tremor	Anxiety	Psychological health	 - 	
+79589243	I have Parkinson's	50-59	Less than 2 years ago	Movement 	Movement	U	Uncategorisable	Depression	Psychological health
+79589244	I have Parkinson's	60-69	Less than 2 years ago	Cure	Cure	 - 		 - 	
+79588391	I have Parkinson's	60-69	6-10 years ago	Tremor	Tremor	Stiffness	Stiffness	Memory	Cognitive function
+79589397	I have Parkinson's	70-79	2-5 years ago	Movement 	Movement	Balance	Balance and falls	Tremor	Tremor
+79589690	I have Parkinson's	50-59	2-5 years ago	Walking	Walking	Dexterity	Dexterity and coordination	 - 	
+79589837	I have Parkinson's	70-79	Less than 2 years ago	Tremor	Tremor	Thermoregulation, Tremor	Tremor, Physiological changes	 - 	
+79590695	I have Parkinson's	70-79	Less than 2 years ago	Tremor	Tremor	Balance	Balance and falls	Bladder	Bladder and Bowel problems
+79590836	I have Parkinson's	50-59	Less than 2 years ago	U	Uncategorisable	Freezing	Freezing	Stiffness	Stiffness
+79590892	I have Parkinson's	50-59	2-5 years ago	Stiffness	Stiffness	Speech	Speech	Anxiety	Psychological health
+79590827	I have Parkinson's	Over 80	2-5 years ago	Stiffness	Stiffness	Balance	Balance and falls	Tremor	Tremor
+79578428	I have Parkinson's	60-69	2-5 years ago	Movement 	Movement	U	Uncategorisable	Loss of independence	Maintaining independence 
+79590671	I have Parkinson's	60-69	2-5 years ago	Bowel	Bladder and Bowel problems	Eating and swallowing	Eating and swallowing	Stiffness	Stiffness
+79591604	I have Parkinson's	50-59	2-5 years ago	Tremor	Tremor	Sleep	Sleep problems	Slowness	Slowness
+79591891	I have Parkinson's	60-69	2-5 years ago	Walking	Walking	Dexterity	Dexterity and coordination	Bowel	Bladder and Bowel problems
+79591789	I have Parkinson's	50-59	Less than 2 years ago	Side effects	Side effects of medication	U	Uncategorisable	Pain	Pain and unpleasant sensations
+79592490	I have Parkinson's	60-69	2-5 years ago	Walking	Walking	Tremor	Tremor	Falls	Balance and falls
+79592470	I have Parkinson's	70-79	6-10 years ago	Movement 	Movement	Weakness	Weakness	Pain	Pain and unpleasant sensations
+79592607	I have Parkinson's	60-69	Less than 2 years ago	Dexterity	Dexterity and coordination	Stiffness, Dystonia	Stiffness, Dystonia	Sexual	Physiological changes
+79592730	I have Parkinson's	60-69	6-10 years ago	Dyskinesia	Dyskinesia	Walking	Walking	Balance	Balance and falls
+79592950	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Fatigue	Fatigue and energy	Confidence	Psychological health
+79593414	I have Parkinson's	60-69	6-10 years ago	Tremor	Tremor	Stiffness	Stiffness	Slowness	Slowness
+79593362	I have Parkinson's	70-79	6-10 years ago	Restless leg	Pain and unpleasant sensations	Loss of independence	Maintaining independence 	Coordination	Dexterity and coordination
+79592993	I have Parkinson's	60-69	11-20 years ago	Medication wearing off	Medication wearing off	Fatigue	Fatigue and energy	Movement	Movement
+79593342	I have Parkinson's	60-69	Less than 2 years ago	Depression, Anxiety	Psychological health	Movement	Movement	Side effects of medication	Side effects of medication
+79593377	I have Parkinson's	70-79	More than 20 years ago	Saliva problems	Physiological changes	Stiffness, Slowness, Walking	Walking, Stiffness, Slowness	Bladder	Bladder and Bowel problems
+79593053	I have Parkinson's	70-79	11-20 years ago	Tremor, Side effects, Medication wearing off	Tremor, Side effects of medication, Medication wearing off	Dystonia	Dystonia	Cure	Cure
+79594662	I have Parkinson's	50-59	Less than 2 years ago	Tremor	Tremor	Stiffness	Stiffness	Speech	Speech
+79594671	I have Parkinson's	70-79	Less than 2 years ago	Better care	Better care	Better care	Better care	Diet	Better care
+79596238	I have Parkinson's	60-69	2-5 years ago	Cure	Cure	Tremor	Tremor	Sleep	Sleep problems
+79596260	I have Parkinson's	60-69	2-5 years ago	Balance	Balance and falls	Tremor	Tremor	Speech	Speech
+79596781	I have Parkinson's	50-59	2-5 years ago	Sleep	Sleep problems	Dystonia	Dystonia	Medication wearing off	Medication wearing off
+79599475	I have Parkinson's	60-69	2-5 years ago	Speech	Speech	Speech	Speech	Movement, Balance	Balance and falls, Movement
+79599517	I have Parkinson's	60-69	2-5 years ago	Dexterity	Dexterity and coordination	 - 		 - 	
+79599632	I have Parkinson's	60-69	6-10 years ago	Posture	Posture	Fatigue	Fatigue and energy	Walking	Walking
+79599871	I have Parkinson's	60-69	6-10 years ago	Pain, Medication wearing off	Pain and unpleasant sensations, Medication wearing off	Better treatments	Better treatments	 - 	
+79600316	I have Parkinson's	50-59	6-10 years ago	Loss of independence	Maintaining independence 	Walking	Walking	Bladder	Bladder and Bowel problems
+79600490	I have Parkinson's	50-59	6-10 years ago	Pain	Pain and unpleasant sensations	Dystonia	Dystonia	Better treatments	Better treatments
+79600754	I have Parkinson's	50-59	Less than 2 years ago	Tremor	Tremor	Dystonia	Dystonia	Cognitive impairment	Cognitive function
+79601995	I have Parkinson's	60-69	2-5 years ago	Bladder	Bladder and Bowel problems	Sleep	Sleep problems	Eating and swallowing	Eating and swallowing
+79602414	I have Parkinson's	60-69	Less than 2 years ago	Anxiety	Psychological health	Dexterity	Dexterity and coordination	Pain	Pain and unpleasant sensations
+79602119	I have Parkinson's	50-59	2-5 years ago	Tremor	Tremor	Slowness	Slowness	Daytime sleepiness, Side effect	Sleep problems, Side effects of medication
+79602531	I have Parkinson's	60-69	2-5 years ago	Movement 	Movement	Weakness	Weakness	  -	
+79602315	I have Parkinson's	60-69	2-5 years ago	Walking, Fitness	Walking, Fatigue and energy	Tiredness, Stiffness	Stiffness, Fatigue and energy	Fitness	Fatigue and energy
+79603191	I have Parkinson's	50-59	2-5 years ago	Fatigue	Fatigue and energy	Pain	Pain and unpleasant sensations	Depression	Psychological health
+79603557	I have Parkinson's	50-59	Less than 2 years ago	Tremor	Tremor	Movement	Movement	Stiffness	Stiffness
+79604153	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	 - 		 -	
+79604695	I have Parkinson's	Over 80	11-20 years ago	Sleep	Sleep problems	Eating and swallowing	Eating and swallowing	Bowel	Bladder and Bowel problems
+79605451	I have Parkinson's	50-59	Less than 2 years ago	Tremor	Tremor	 - 		 - 	
+79605334	I have Parkinson's	60-69	Less than 2 years ago	Better treatments	Better treatments	Skin 	Physiological changes	Sexual	Physiological changes
+79607912	I have Parkinson's	60-69	6-10 years ago	Dystonia	Better treatments	Bowel	Bladder and Bowel problems	 - 	
+79606888	I have Parkinson's	50-59	2-5 years ago	Movement, Walking, Balance	Better treatments	Speech	Speech	Facial expression	Facial expression
+79609638	I have Parkinson's	30-49	2-5 years ago	Walking	Walking	 - 		 - 	
+79608359	I have Parkinson's	50-59	Less than 2 years ago	Tremor	Tremor	Cure	Cure	Loss of independence	Maintaining independence 
+79610492	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Stiffness	Stiffness	Mood	Psychological health
+79610810	I have Parkinson's	60-69	2-5 years ago	Coordination, Dexterity	Dexterity and coordination	Mood	Psychological health	 - 	
+79611853	I have Parkinson's	60-69	6-10 years ago	Tremor	Tremor	Pain	Pain and unpleasant sensations	 - 	
+79612452	I have Parkinson's	50-59	6-10 years ago	Smell	Physiological changes	Tremor	Tremor	Psychological impact	Psychological health
+79612456	I have Parkinson's	70-79	6-10 years ago	Walking, Fitness	Walking, Fatigue and energy	 -		 - 	
+79612309	I have Parkinson's	70-79	11-20 years ago	Balance	Balance and falls	Speech	Speech	Pain	Pain and unpleasant sensations
+79612983	I have Parkinson's	70-79	6-10 years ago	Freezing	Freezing	 - 		 - 	
+79614296	I have Parkinson's	60-69	2-5 years ago	Speech	Speech	Balance	Balance and falls	Slowness	Slowness
+79614538	I have Parkinson's	50-59	11-20 years ago	Cure	Cure	Cure	Cure	Cure	Cure
+79615204	I have Parkinson's	60-69	6-10 years ago	Pain, Side effect	Pain and unpleasant sensations, Side effects of medication	Tremor	Tremor	Stiffness	Stiffness
+79615295	I have Parkinson's	60-69	2-5 years ago	Weakness	Weakness	Dexterity	Dexterity and coordination	Psychological impact	Psychological health
+79615357	I have Parkinson's	70-79	Less than 2 years ago	Movement 	Movement	Tiredness	Fatigue and energy	Tremor	Tremor
+79616851	I have Parkinson's	70-79	2-5 years ago	Lack of energy	Fatigue and energy	Better treatments	Better treatments	Cure	Cure
+79616507	I have Parkinson's	50-59	Less than 2 years ago	Slowness, Walking	Walking, Slowness	Stiffness, Pain, Unpleasant sensation	Stiffness, Pain and unpleasant sensations	Psychological impact, Cure	Psychological health, Cure
+79619584	I have Parkinson's	30-49	Less than 2 years ago	Anxiety	Psychological health	Cognitive impairment	Cognitive function	Dexterity	Dexterity and coordination
+79621036	I have Parkinson's	60-69	2-5 years ago	Better treatments	Better treatments	Sleep	Sleep problems	 - 	
+79620233	I have Parkinson's	60-69	6-10 years ago	Loss of independence	Maintaining independence 	Cognitive impairment	Cognitive function	Dexterity	Dexterity and coordination
+79622173	I have Parkinson's	70-79	6-10 years ago	Bladder	Better treatments	Movement	Movement	Daytime sleepiness	Sleep problems
+79624643	I have Parkinson's	70-79	2-5 years ago	Stiffness	Stiffness	Balance	Balance and falls	Movement	Movement
+79624421	I have Parkinson's	60-69	2-5 years ago	Movement 	Movement	Pain	Pain and unpleasant sensations	Memory	Cognitive function
+79624744	I have Parkinson's	50-59	Less than 2 years ago	Cognitive impairment	Cognitive function	Stiffness	Stiffness	Tremor	Tremor
+79620826	I have Parkinson's	70-79	2-5 years ago	Tiredness, Mood	Fatigue and energy, Psychological health	Cognitive impairment	Cognitive function	Daytime sleepiness	Sleep problems
+79625740	I have Parkinson's	50-59	Less than 2 years ago	Anxiety	Psychological health	Slowness	Slowness	Cognitive impairment	Cognitive function
+79627228	I have Parkinson's	70-79	Less than 2 years ago	Stiffness, Dexterity	Stiffness, Dexterity and coordination	Lack of energy	Fatigue and energy	Sleep	Sleep problems
+79629885	I have Parkinson's	70-79	2-5 years ago	Sleep	Sleep problems	Mood	Psychological health	Better care	Better care
+79632249	I have Parkinson's	70-79	2-5 years ago	Stiffness	Stiffness	Tremor	Tremor	Dexterity	Dexterity and coordination
+79634730	I have Parkinson's	60-69	11-20 years ago	Movement, Freezing, Falls, Fitness	Balance and falls, Movement, Freezing, Fatigue and energy	Side effects of medication	Side effects of medication	 - 	
+79637794	I have Parkinson's	70-79	11-20 years ago	Walking	Walking	Balance	Balance and falls	Bowel	Bladder and Bowel problems
+79639287	I have Parkinson's	60-69	6-10 years ago	Walking	Walking	Balance	Balance and falls	Fatigue	Fatigue and energy
+79639090	I have Parkinson's	70-79	6-10 years ago	Medication wearing off	Medication wearing off	Bowel	Bladder and Bowel problems	Balance, Falls	Balance and falls
+79640346	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Tiredness	Fatigue and energy	 - 	
+79636236	I have Parkinson's	50-59	Less than 2 years ago	Stiffness	Stiffness	Cure	Cure	 - 	
+79643420	I have Parkinson's	70-79	2-5 years ago	Tremor, Dexterity	Tremor, Dexterity and coordination	Anxiety	Psychological health	Speech	Speech
+79644486	I have Parkinson's	70-79	6-10 years ago	Stiffness	Stiffness	 - 		 - 	
+79644747	I have Parkinson's	70-79	11-20 years ago	Walking, Freezing	Walking, Freezing	Falls	Balance and falls	Bladder, Bowel	Bladder and Bowel problems
+79645106	I have Parkinson's	30-49	2-5 years ago	Fatigue	Fatigue and energy	Pain, Stiffness	Stiffness, Pain and unpleasant sensations	Tremor, Walking, Falls	Tremor, Balance and falls, Walking
+79645310	I have Parkinson's	70-79	11-20 years ago	Posture	Posture	Fitness	Fatigue and energy	Loss of independence	Maintaining independence 
+79646245	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Sleep	Sleep problems	Speech	Speech
+79642577	I have Parkinson's	70-79	2-5 years ago	Speech	Speech	Walking, Posture	Walking, Posture	Facial expression	Facial expression
+79645840	I have Parkinson's	60-69	6-10 years ago	Tremor, Medication wearing off	Tremor, Medication wearing off	Slowness, Freezing	Slowness, Freezing	Cognitive impairment	Cognitive function
+79646229	I have Parkinson's	50-59	2-5 years ago	Stiffness	Stiffness	Weakness, Fitness	Weakness, Fatigue and energy	Walking	Walking
+79653398	I have Parkinson's	60-69	2-5 years ago	Heart and blood pressure, Balance	Balance and falls, Physiological changes	Sleep	Sleep problems	Bowel	Bladder and Bowel problems
+79658179	I have Parkinson's	30-49	2-5 years ago	Tremor	Tremor	Sleep	Sleep problems	Dystonia	Dystonia
+79660944	I have Parkinson's	70-79	6-10 years ago	Freezing, Medication wearing off	Freezing, Medication wearing off	Incontinence	Bladder and Bowel problems	Medication wearing off	Medication wearing off
+79667188	I have Parkinson's	60-69	2-5 years ago	Better treatments	Better treatments	Better care	Better care	U	
+79670052	I have Parkinson's	60-69	11-20 years ago	Cognitive impairment	Better treatments	Dexterity	Dexterity and coordination	Fatigue	Fatigue and energy
+79671796	I have Parkinson's	50-59	2-5 years ago	Slowness, Movement	Better treatments	Cognitive impairment	Cognitive function	Pain	Pain and unpleasant sensations
+79672048	I have Parkinson's	60-69	More than 20 years ago	Falls	Balance and falls	Tiredness	Fatigue and energy	Speech	Speech
+79676691	I have Parkinson's	30-49	2-5 years ago	Walking	Walking	Speech	Speech	Confidence	Psychological health
+79697034	I have Parkinson's	60-69	2-5 years ago	Tiredness	Fatigue and energy	Dexterity	Dexterity and coordination	 - 	
+79697469	I have Parkinson's	70-79	6-10 years ago	Freezing, Walking	Walking, Freezing	Apathy, Depression	Psychological health	Slowness	Slowness
+79697253	I have Parkinson's	60-69	Less than 2 years ago	Tremor	Tremor	Slowness	Slowness	Incontinence	Bladder and Bowel problems
+79697950	I have Parkinson's	60-69	2-5 years ago	Depression	Psychological health	Stiffness	Stiffness	 - 	
+79696679	I have Parkinson's	Over 80	Less than 2 years ago	Fatigue	Fatigue and energy	Heart and blood pressure	Physiological changes	Anxiety	Psychological health
+79697553	I have Parkinson's	70-79	2-5 years ago	Slowness	Slowness	Stiffness	Stiffness	Posture	Posture
+79690361	I have Parkinson's	60-69	Less than 2 years ago	Movement 	Movement	Speech	Speech	Apathy	Psychological health
+79706400	I have Parkinson's	60-69	2-5 years ago	Anxiety, Tremor	Tremor, Psychological health	Tremor	Tremor	Sleep	Sleep problems
+79712035	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Side effects of medication	Side effects of medication	Stiffness	Stiffness
+79718236	I have Parkinson's	70-79	2-5 years ago	Dexterity	Dexterity and coordination	Pain	Pain and unpleasant sensations	Saliva problems	Physiological changes
+79719729	I have Parkinson's	60-69	2-5 years ago	Pain	Pain and unpleasant sensations	Balance	Balance and falls	Fatigue	Fatigue and energy
+79720302	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Cognitive impairment	Cognitive function	 - 	
+79726456	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Balance	Balance and falls	Sleep	Sleep problems
+79729876	I have Parkinson's	70-79	Less than 2 years ago	Walking, Fitness	Walking, Fatigue and energy	Slowness, Coordination	Dexterity and coordination, Slowness	Daytime sleepiness	Sleep problems
+79733554	I have Parkinson's	50-59	6-10 years ago	Eyes and vision	Physiological changes	Fatigue	Fatigue and energy	Breathing	Physiological changes
+79734542	I have Parkinson's	70-79	11-20 years ago	Freezing	Freezing	Stiffness	Stiffness	Confidence, Walking	Walking, Psychological health
+79756909	I have Parkinson's	50-59	2-5 years ago	Tiredness	Fatigue and energy	Balance	Balance and falls	Bowel	Bladder and Bowel problems
+79765157	I have Parkinson's	60-69	6-10 years ago	U	Uncategorisable	Better treatments	Better treatments	Better treatments	Better treatments
+79779024	I have Parkinson's	70-79	6-10 years ago	Dyskinesia	Dyskinesia	Bowel	Bladder and Bowel problems	 -	
+79800794	I have Parkinson's	30-49	2-5 years ago	Fatigue	Fatigue and energy	Fitness	Fatigue and energy	U	Uncategorisable
+79705611	I have Parkinson's	70-79	2-5 years ago	Lack of energy	Fatigue and energy	Memory	Cognitive function	Pain	Pain and unpleasant sensations
+79809257	I have Parkinson's	Over 80	11-20 years ago	Sleep	Sleep problems	Better treatments	Better treatments	Better care	Better care
+79812429	I have Parkinson's	70-79	Less than 2 years ago	Falls	Balance and falls	Anxiety	Psychological health	Weakness, Movement	Movement, Weakness
+79813327	I have Parkinson's	60-69	Less than 2 years ago	Stiffness	Stiffness	Bladder	Bladder and Bowel problems	 - 	
+79888879	I have Parkinson's	60-69	11-20 years ago	U	Uncategorisable	Fitness	Fatigue and energy	Movement	Movement
+79893124	I have Parkinson's	60-69	2-5 years ago	Lack of energy	Fatigue and energy	Movement	Movement	Dyskinesia	Dyskinesia
+79904529	I have Parkinson's	70-79	More than 20 years ago	Walking	Walking	Dexterity	Dexterity and coordination	Dyskinesia	Dyskinesia
+79908674	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Balance	Balance and falls	Speech	Speech
+79955482	I have Parkinson's	70-79	11-20 years ago	Side effects, Hallucinations and psychosis	Psychological health, Side effects of medication	Falls, Walking, Balance	Balance and falls, Walking	Maintaining independence	Maintaining independence 
+79978512	I have Parkinson's	70-79	6-10 years ago	Speech	Speech	Tremor	Tremor	 - 	
+79995157	I have Parkinson's	60-69	Less than 2 years ago	Cognitive impairment, Speech	Speech, Cognitive function	Walking	Walking	Cognitive impairment	Cognitive function
+80056509	I have Parkinson's	70-79	6-10 years ago	Slowness, Apathy	Slowness, Psychological health	Anxiety	Psychological health	Cognitive impairment	Cognitive function
+80060522	I have Parkinson's	70-79	6-10 years ago	Anxiety	Psychological health	Confidence	Psychological health	Balance	Balance and falls
+80217385	I have Parkinson's	60-69	6-10 years ago	Tiredness	Fatigue and energy	Bowel	Bladder and Bowel problems	Sleep	Sleep problems
+80364603	I have Parkinson's	30-49	Less than 2 years ago	Slowness	Slowness	Tremor	Tremor	Stiffness	Stiffness
+80539469	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Bladder	Bladder and Bowel problems	Eating and swallowing	Eating and swallowing
+80563287	I have Parkinson's	70-79	2-5 years ago	Incontinence	Bladder and Bowel problems	Side effects of medication	Side effects of medication	Better treatments, Diet	Better treatments, Better care
+80672923	I have Parkinson's	50-59	2-5 years ago	Sleep	Sleep problems	Stiffness, Pain	Stiffness, Pain and unpleasant sensations	 - 	
+80919563	I have Parkinson's	60-69	2-5 years ago	Memory	Cognitive function	Movement	Movement	Daytime sleepiness	Sleep problems
+80919814	I have Parkinson's	70-79	2-5 years ago	Walking	Walking	Moving in bed	Movement	Stiffness	Stiffness
+80920027	I have Parkinson's	Over 80	2-5 years ago	Balance	Balance and falls	 - 		 - 	
+80920090	I have Parkinson's	60-69	2-5 years ago	Movement 	Movement	Slowness	Slowness	 - 	
+80920025	I have Parkinson's	60-69	2-5 years ago	Stiffness	Stiffness	Lack of energy	Fatigue and energy	Speech	Speech
+80920117	I have Parkinson's	60-69	2-5 years ago	Stiffness, Pain	Stiffness, Pain and unpleasant sensations	Slowness	Slowness	Tremor	Tremor
+80920261	I have Parkinson's	70-79	6-10 years ago	Balance	Balance and falls	Sense of smell	Physiological changes	Tiredness	Fatigue and energy
+80920420	I have Parkinson's	70-79	2-5 years ago	Mood	Psychological health	Freezing	Freezing	 - 	
+80919757	I have Parkinson's	70-79	11-20 years ago	Balance	Balance and falls	Sleep	Sleep problems	Eating and swallowing	Eating and swallowing
+80920589	I have Parkinson's	50-59	6-10 years ago	Tremor	Tremor	Dystonia	Dystonia	Side effects of medication, Walking	Walking, Side effects of medication
+80920980	I have Parkinson's	60-69	Less than 2 years ago	Tremor	Tremor	Stiffness	Stiffness	Slowness	Slowness
+80921319	I have Parkinson's	60-69	2-5 years ago	Movement 	Movement	Tiredness	Fatigue and energy	Movement	Movement
+80920755	I have Parkinson's	70-79	2-5 years ago	Tremor, Stiffness	Tremor, Stiffness	Fatigue	Fatigue and energy	Better care	Better care
+80919938	I have Parkinson's	50-59	6-10 years ago	Movement 	Movement	Medication wearing off	Medication wearing off	 - 	
+80921599	I have Parkinson's	50-59	2-5 years ago	Depression	Psychological health	Tiredness	Fatigue and energy	Sexual	Physiological changes
+80921811	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	 - 		 - 	
+80921283	I have Parkinson's	60-69	11-20 years ago	Walking	Walking	Fitness	Fatigue and energy	Medication wearing off	Medication wearing off
+80921430	I have Parkinson's	60-69	6-10 years ago	Tremor	Tremor	Balance	Balance and falls	Pain	Pain and unpleasant sensations
+80921241	I have Parkinson's	70-79	2-5 years ago	Balance	Balance and falls	Dexterity	Dexterity and coordination	Sleep	Sleep problems
+80921675	I have Parkinson's	50-59	Less than 2 years ago	Tremor	Tremor	Dystonia	Dystonia	Memory	Cognitive function
+80921989	I have Parkinson's	50-59	2-5 years ago	Tremor	Tremor	Dystonia	Dystonia	Pain	Pain and unpleasant sensations
+80922299	I have Parkinson's	60-69	2-5 years ago	Stiffness	Stiffness	Movement	Movement	Balance	Balance and falls
+80922427	I have Parkinson's	60-69	Less than 2 years ago	Heart and blood pressure	Physiological changes	Fatigue	Fatigue and energy	Apathy	Psychological health
+80921438	I have Parkinson's	60-69	6-10 years ago	Pain	Pain and unpleasant sensations	Stiffness	Stiffness	Walking, Falls, Balance	Balance and falls, Walking
+80920311	I have Parkinson's	60-69	Less than 2 years ago	Tremor	Tremor	Fatigue	Fatigue and energy	Weakness	Weakness
+80921755	I have Parkinson's	50-59	2-5 years ago	Tremor	Tremor	Cognitive impairment	Cognitive function	Side effects of medication	Side effects of medication
+80920879	I have Parkinson's	70-79	6-10 years ago	Movement, Pain	Movement, Pain and unpleasant sensations	Falls	Balance and falls	Dexterity	Dexterity and coordination
+80920956	I have Parkinson's	70-79	11-20 years ago	Freezing, Walking	Walking, Freezing	Eyes and vision	Physiological changes	 - 	
+80922485	I have Parkinson's	70-79	More than 20 years ago	Pain	Pain and unpleasant sensations	Dyskinesia	Dyskinesia	 - 	
+80922591	I have Parkinson's	60-69	2-5 years ago	Dexterity	Dexterity and coordination	Stiffness	Stiffness	 - 	
+80922633	I have Parkinson's	60-69	6-10 years ago	Tremor	Tremor	Dystonia	Dystonia	Better treatments	Better treatments
+80920284	I have Parkinson's	60-69	More than 20 years ago	Sleep, Side effects of medication	Sleep problems, Side effects of medication	Maintaining independence	Maintaining independence 	Dexterity	Dexterity and coordination
+80922058	I have Parkinson's	60-69	2-5 years ago	Weakness	Weakness	Tiredness, Daytime sleepiness	Fatigue and energy, Sleep problems	Tremor	Tremor
+80922924	I have Parkinson's	60-69	6-10 years ago	Tiredness	Fatigue and energy	Stiffness	Stiffness	Dexterity	Dexterity and coordination
+80922832	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Stiffness	Stiffness	Balance	Balance and falls
+80923646	I have Parkinson's	30-49	2-5 years ago	Movement	Movement	Freezing	Freezing	Sleep	Sleep problems
+80923045	I have Parkinson's	70-79	2-5 years ago	Stiffness	Stiffness	Tremor	Tremor	 - 	
+80923708	I have Parkinson's	Over 80	2-5 years ago	Balance	Balance and falls	Freezing	Freezing	Lack of energy	Fatigue and energy
+80923568	I have Parkinson's	60-69	Less than 2 years ago	Coordination	Dexterity and coordination	Slowness	Slowness	Walking	Walking
+80923626	I have Parkinson's	60-69	6-10 years ago	Dexterity	Dexterity and coordination	Pain	Pain and unpleasant sensations	Pain	Pain and unpleasant sensations
+80923101	I have Parkinson's	60-69	2-5 years ago	Bowel	Bladder and Bowel problems	Sleep	Sleep problems	Better treatments	Better treatments
+80923887	I have Parkinson's	60-69	2-5 years ago	Stiffness	Stiffness	Pain	Pain and unpleasant sensations	 - 	
+80923647	I have Parkinson's	70-79	6-10 years ago	Freezing, Falls	Freezing	Eyes and vision	Physiological changes	Speech	Speech
+80923321	I have Parkinson's	60-69	11-20 years ago	Moving in bed	Movement	Dystonia, Walking	Walking, Dystonia	Slowness	Slowness
+80923693	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Sleep	Sleep problems	Bladder	Bladder and Bowel problems
+80922490	I have Parkinson's	70-79	2-5 years ago	Bowel	Bladder and Bowel problems	Mood	Psychological health	Tremor	Tremor
+80923451	I have Parkinson's	60-69	Less than 2 years ago	Tremor	Tremor	Cognitive impairment	Cognitive function	Balance	Balance and falls
+80924294	I have Parkinson's	60-69	Less than 2 years ago	Tremor	Tremor	Tremor	Tremor	Dexterity	Dexterity and coordination
+80924476	I have Parkinson's	70-79	2-5 years ago	Side effects of medication	Side effects of medication	U 	Uncategorisable	Stiffness	Stiffness
+80924763	I have Parkinson's	50-59	2-5 years ago	Fatigue	Fatigue and energy	Tremor	Tremor	Pain	Pain and unpleasant sensations
+80924799	I have Parkinson's	30-49	2-5 years ago	Fatigue	Fatigue and energy	Stiffness	Stiffness	Walking	Walking
+80923703	I have Parkinson's	70-79	2-5 years ago	Sleep	Sleep problems	Tremor	Tremor	 - 	
+80924071	I have Parkinson's	50-59	6-10 years ago	Anxiety	Psychological health	Depression	Psychological health	Dystonia	Dystonia
+80924854	I have Parkinson's	50-59	Less than 2 years ago	Dexterity	Dexterity and coordination	Slowness	Slowness	Tremor	Tremor
+80924974	I have Parkinson's	50-59	Less than 2 years ago	Freezing	Freezing	Anxiety	Psychological health	Fatigue	Fatigue and energy
+80924455	I have Parkinson's	60-69	2-5 years ago	Walking	Walking	Bladder	Bladder and Bowel problems	Sexual	Physiological changes
+80922914	I have Parkinson's	70-79	2-5 years ago	Weakness	Weakness	Tremor	Tremor	Sleep	Sleep problems
+80923902	I have Parkinson's	60-69	6-10 years ago	Sleep, Fatigue	Fatigue and energy, Sleep problems	Pain, Medication wearing off	Pain and unpleasant sensations, Medication wearing off	Slowness, Medication wearing off	Slowness, Medication wearing off
+80925547	I have Parkinson's	60-69	2-5 years ago	Dexterity	Dexterity and coordination	Movement	Movement	Tremor	Tremor
+80924488	I have Parkinson's	Over 80	2-5 years ago	Freezing	Freezing	Slowness, Walking	Walking, Slowness	Freezing	Freezing
+80924608	I have Parkinson's	60-69	6-10 years ago	Sleep	Sleep problems	Movement	Movement	Pain, Dystonia	Dystonia, Pain and unpleasant sensations
+80924457	I have Parkinson's	50-59	Less than 2 years ago	Tremor	Tremor	Confidence	Psychological health	Side effects, Pain	Pain and unpleasant sensations, Side effects of medication
+80919684	I have Parkinson's	70-79	6-10 years ago	Apathy	Psychological health	Sleep	Sleep problems	Tremor, Facial expression	Tremor, Facial expression
+80920322	I have Parkinson's	70-79	2-5 years ago	Dystonia	Dystonia	Bowel	Bladder and Bowel problems	Sleep	Sleep problems
+80927070	I have Parkinson's	30-49	Less than 2 years ago	Dystonia	Dystonia	Slowness	Slowness	Fatigue, Tremor	Tremor, Fatigue and energy
+80927114	I have Parkinson's	70-79	6-10 years ago	Movement 	Movement	Moving in bed	Movement	Speech	Speech
+80927535	I have Parkinson's	60-69	6-10 years ago	Fatigue	Fatigue and energy	Walking	Walking	Stiffness	Stiffness
+80927555	I have Parkinson's	60-69	2-5 years ago	Pain	Pain and unpleasant sensations	Dystonia	Dystonia	Fatigue	Fatigue and energy
+80926733	I have Parkinson's	60-69	2-5 years ago	Anxiety	Psychological health	Tremor	Tremor	Balance, Posture	Balance and falls, Posture
+80926388	I have Parkinson's	70-79	2-5 years ago	Dyskinesia	Dyskinesia	Dexterity	Dexterity and coordination	Saliva problems	Physiological changes
+80926606	I have Parkinson's	30-49	2-5 years ago	Balance	Balance and falls	Cognitive impairment	Cognitive function	Pain	Pain and unpleasant sensations
+80926583	I have Parkinson's	60-69	More than 20 years ago	Better care	Better care	U 	Uncategorisable	Dyskinesia	Dyskinesia
+80927494	I have Parkinson's	70-79	2-5 years ago	Balance	Balance and falls	Dexterity	Dexterity and coordination	Bowel	Bladder and Bowel problems
+80926602	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Lack of energy	Fatigue and energy	Dexterity	Dexterity and coordination
+80928158	I have Parkinson's	60-69	2-5 years ago	Slowness, Stiffness	Stiffness, Slowness	Tremor	Tremor	 -	
+80928415	I have Parkinson's	60-69	2-5 years ago	Walking	Walking	Balance	Balance and falls	Stiffness	Stiffness
+80929181	I have Parkinson's	50-59	6-10 years ago	Cure	Cure	Movement	Movement	Anxiety	Psychological health
+80928376	I have Parkinson's	60-69	11-20 years ago	Balance, Falls	Balance and falls	Fatigue, Weakness	Weakness, Fatigue and energy	Bowel, Eating and swallowing	Bladder and Bowel problems, Eating and swallowing
+80929614	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Sleep	Sleep problems	Speech	Speech
+80928572	I have Parkinson's	60-69	11-20 years ago	Bladder	Bladder and Bowel problems	Tremor	Tremor	Walking	Walking
+80926894	I have Parkinson's	60-69	6-10 years ago	Dyskinesia	Dyskinesia	Slowness	Slowness	 - 	
+80929530	I have Parkinson's	60-69	Less than 2 years ago	Weakness	Weakness	Posture	Posture	Tremor	Tremor
+80929813	I have Parkinson's	60-69	2-5 years ago	Slowness, Weakness	Slowness, Weakness	Dexterity	Dexterity and coordination	Balance, Walking	Balance and falls, Walking
+80930364	I have Parkinson's	50-59	11-20 years ago	Dystonia	Dystonia	Fatigue	Fatigue and energy	Sleep	Sleep problems
+80928870	I have Parkinson's	70-79	2-5 years ago	Balance	Balance and falls	Stiffness	Stiffness	U 	Uncategorisable
+80930730	I have Parkinson's	70-79	Less than 2 years ago	Sleep	Sleep problems	Cognitive impairment	Cognitive function	Movement, Coordination	Movement, Dexterity and coordination
+80928032	I have Parkinson's	30-49	Less than 2 years ago	Speech	Speech	Eating and swallowing	Eating and swallowing	 - 	
+80931359	I have Parkinson's	70-79	Less than 2 years ago	Psychological impact	Psychological health	 - 		 - 	
+80931890	I have Parkinson's	70-79	Less than 2 years ago	Tremor	Tremor	Balance	Balance and falls	Sleep	Sleep problems
+80931726	I have Parkinson's	50-59	Less than 2 years ago	Dexterity	Dexterity and coordination	Speech, Better treatments	Speech	Slowness	Slowness
+80930947	I have Parkinson's	60-69	2-5 years ago	Movement 	Movement	Memory	Cognitive function	 - 	
+80931918	I have Parkinson's	60-69	6-10 years ago	Fatigue	Fatigue and energy	Slowness	Slowness	Weakness	Weakness
+80932308	I have Parkinson's	60-69	6-10 years ago	Tremor	Tremor	Stiffness	Stiffness	Sleep	Sleep problems
+80932843	I have Parkinson's	60-69	2-5 years ago	Sleep	Sleep problems	Tremor	Tremor	Walking	Walking
+80932432	I have Parkinson's	Over 80	6-10 years ago	Tremor	Tremor	Walking	Walking	Balance, Walking	Balance and falls, Walking
+80932863	I have Parkinson's	60-69	Less than 2 years ago	Psychological impact	Psychological health	Slowness	Slowness	Stiffness	Stiffness
+80932803	I have Parkinson's	70-79	2-5 years ago	Memory	Cognitive function	Sleep	Sleep problems	Restless legs	Pain and unpleasant sensations
+80929483	I have Parkinson's	60-69	6-10 years ago	Movement, Freezing, Medication wearing off	Movement, Freezing, Medication wearing off	Dyskinesia	Dyskinesia	Side effects	Side effects of medication
+80933910	I have Parkinson's	60-69	2-5 years ago	Speech	Speech	Eating and swallowing	Eating and swallowing	Bowel	Bladder and Bowel problems
+80933972	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Memory	Cognitive function	 -  	
+80933834	I have Parkinson's	30-49	2-5 years ago	Stiffness	Stiffness	Better treatments	Better treatments	Bowel	Bladder and Bowel problems
+80933025	I have Parkinson's	60-69	2-5 years ago	Walking, Fitness	Walking, Fatigue and energy	Maintaining independence	Maintaining independence 	Sleep	Sleep problems
+80934022	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	U 	Uncategorisable	Movement	Movement
+80933622	I have Parkinson's	Over 80	2-5 years ago	Speech	Speech	Stiffness	Stiffness	Dystonia, Medication wearing off	Dystonia, Medication wearing off
+80933899	I have Parkinson's	Over 80	2-5 years ago	Cognitive impairment	Cognitive function	Anxiety	Psychological health	Walking	Walking
+80932813	I have Parkinson's	Over 80	6-10 years ago	Walking, Fitness	Walking, Fatigue and energy	Sleep	Sleep problems	Sense of smell	Physiological changes
+80932703	I have Parkinson's	60-69	6-10 years ago	Balance, Dexterity, Bladder	Balance and falls, Dexterity and coordination, Bladder and Bowel problems	Cognitive impairment	Cognitive function	Speech	Speech
+80934836	I have Parkinson's	60-69	2-5 years ago	Dyskinesia	Dyskinesia	Anxiety	Psychological health	 - 	
+80935206	I have Parkinson's	60-69	11-20 years ago	Movement, Balance	Balance and falls, Movement	Speech	Speech	Pain	Pain and unpleasant sensations
+80934272	I have Parkinson's	Over 80	6-10 years ago	Restless legs, Unpleasant sensation	Pain and unpleasant sensations	Balance	Balance and falls	Thermoregulation, Bowel	Bladder and Bowel problems, Physiological changes
+80935602	I have Parkinson's	60-69	2-5 years ago	Tremor, Stiffness	Tremor, Stiffness	Fatigue	Fatigue and energy	 - 	
+80935199	I have Parkinson's	Over 80	2-5 years ago	Tremor	Tremor	Restless legs	Pain and unpleasant sensations	 - 	
+80934633	I have Parkinson's	70-79	11-20 years ago	Balance, Walking	Balance and falls, Walking	Dyskinesia	Dyskinesia	Pain	Pain and unpleasant sensations
+80935394	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Walking	Walking	Balance	Balance and falls
+80935720	I have Parkinson's	60-69	2-5 years ago	Dyskinesia	Dyskinesia	Pain	Pain and unpleasant sensations	Bowel	Bladder and Bowel problems
+80935434	I have Parkinson's	50-59	2-5 years ago	Freezing	Freezing	Memory	Cognitive function	Tremor	Tremor
+80934946	I have Parkinson's	60-69	11-20 years ago	Sleep	Sleep problems	 - 		 - 	
+80935083	I have Parkinson's	70-79	Less than 2 years ago	Tremor	Tremor	Walking	Walking	Stiffness	Stiffness
+80935119	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Daytime sleepiness	Sleep problems	Better care	Better care
+80937156	I have Parkinson's	50-59	Less than 2 years ago	Movement	Movement	 - 		 - 	
+80935557	I have Parkinson's	Over 80	11-20 years ago	Walking, Freezing	Walking, Freezing	Maintaining independence	Maintaining independence 	Sleep	Sleep problems
+80937194	I have Parkinson's	60-69	6-10 years ago	Slowness, Cognitive impairment	Slowness, Cognitive function	Tremor	Tremor	Dyskinesia	Dyskinesia
+80936724	I have Parkinson's	70-79	6-10 years ago	Medication wearing off	Medication wearing off	Freezing	Freezing	Sleep	Sleep problems
+80937379	I have Parkinson's	Over 80	2-5 years ago	Bladder, Bowel	Bladder and Bowel problems	Falls, Walking	Balance and falls, Walking	Cognitive impairment	Cognitive function
+80937440	I have Parkinson's	60-69	2-5 years ago	Dystonia	Dystonia	Dystonia	Dystonia	Sleep	Sleep problems
+80935566	I have Parkinson's	70-79	2-5 years ago	Dexterity	Dexterity and coordination	Stiffness	Stiffness	Tremor, Speech	Tremor, Speech
+80938294	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Memory	Cognitive function	 - 	
+80936690	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Weakness	Weakness	Side effects of medication	Side effects of medication
+80936412	I have Parkinson's	60-69	6-10 years ago	Freezing	Freezing	Medication wearing off	Weakness, Medication wearing off	Dyskinesia	Dyskinesia
+80938592	I have Parkinson's	60-69	2-5 years ago	Walking, Slowness	Walking, Slowness	Lack of energy	Fatigue and energy	Tremor	Tremor
+80938035	I have Parkinson's	60-69	6-10 years ago	Tremor	Tremor	Moving in bed	Movement	Weakness, Coordination, Medication wearing off	Dexterity and coordination, Weakness, Medication wearing off
+80939079	I have Parkinson's	60-69	Less than 2 years ago	Anxiety	Psychological health	Tremor	Tremor	Stiffness	Stiffness
+80938386	I have Parkinson's	70-79	11-20 years ago	Speech	Speech	Tremor	Tremor	Movement	Movement
+80939637	I have Parkinson's	Over 80	2-5 years ago	Balance	Balance and falls	Pain	Pain and unpleasant sensations	 - 	
+80939486	I have Parkinson's	60-69	2-5 years ago	Fatigue	Fatigue and energy	Anxiety	Psychological health	Bowel	Bladder and Bowel problems
+80939582	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Weakness	Weakness	Unpleasant sensation	Pain and unpleasant sensations
+80940004	I have Parkinson's	70-79	Less than 2 years ago	Stiffness	Stiffness	Saliva problems	Physiological changes	Tiredness	Fatigue and energy
+80936688	I have Parkinson's	50-59	2-5 years ago	Better care	Better care	 - 		 - 	
+80939462	I have Parkinson's	70-79	11-20 years ago	Freezing, Anxiety, Stiffness	Stiffness, Freezing, Psychological health	Better treatments	Better treatments	Sleep	Sleep problems
+80941001	I have Parkinson's	70-79	6-10 years ago	Walking, Movement	Movement, Walking	Dystonia	Dystonia	Slowness, Tremor	Tremor, Slowness
+80942617	I have Parkinson's	30-49	6-10 years ago	Freezing	Freezing	Slowness	Slowness	Medication wearing off	Medication wearing off
+80942325	I have Parkinson's	70-79	11-20 years ago	Movement	Movement	Better treatments	Better treatments	 - 	
+80942129	I have Parkinson's	50-59	2-5 years ago	Tremor	Tremor	 - 		 - 	
+80944099	I have Parkinson's	60-69	11-20 years ago	Dyskinesia	Dyskinesia	Dystonia	Dystonia	Lack of energy	Fatigue and energy
+80944549	I have Parkinson's	70-79	Less than 2 years ago	Tremor	Tremor	Anxiety	Psychological health	Heart and blood pressure	Physiological changes
+80943871	I have Parkinson's	70-79	6-10 years ago	Fitness	Fatigue and energy	Balance	Balance and falls	Coordination	Dexterity and coordination
+80945570	I have Parkinson's	60-69	6-10 years ago	Memory	Cognitive function	Walking	Walking	Dexterity	Dexterity and coordination
+80946598	I have Parkinson's	50-59	2-5 years ago	Slowness	Slowness	Tiredness, Movement	Movement, Fatigue and energy	Stiffness	Stiffness
+80946210	I have Parkinson's	30-49	Less than 2 years ago	Movement 	Movement	Better treatments	Better treatments	Side effects of medication	Side effects of medication
+80947354	I have Parkinson's	70-79	2-5 years ago	Movement 	Movement	Memory	Cognitive function	Lack of energy	Fatigue and energy
+80948704	I have Parkinson's	50-59	2-5 years ago	Tremor	Tremor	Dexterity	Dexterity and coordination	Weakness	Weakness
+80947688	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Walking	Walking	 - 	
+80948949	I have Parkinson's	60-69	11-20 years ago	Movement 	Movement	Speech	Speech	Dexterity	Dexterity and coordination
+80950699	I have Parkinson's	60-69	6-10 years ago	Pain	Pain and unpleasant sensations	Better care	Better care	Better treatments	Better treatments
+80951120	I have Parkinson's	60-69	6-10 years ago	Memory, Cognitive impairment	Cognitive function	Dexterity	Dexterity and coordination	Pain	Pain and unpleasant sensations
+80948833	I have Parkinson's	70-79	More than 20 years ago	Walking	Walking	Sexual	Physiological changes	Dexterity	Dexterity and coordination
+80946595	I have Parkinson's	70-79	2-5 years ago	Sleep	Sleep problems	Anxiety	Psychological health	Tiredness, Lack of energy	Fatigue and energy
+80952481	I have Parkinson's	70-79	2-5 years ago	Balance	Balance and falls	Bowel	Bladder and Bowel problems	Tiredness	Fatigue and energy
+80952973	I have Parkinson's	70-79	Less than 2 years ago	Walking	Walking	Tremor	Tremor	Dexterity	Dexterity and coordination
+80952412	I have Parkinson's	60-69	2-5 years ago	Movement	Movement	Tremor	Tremor	Tiredness	Fatigue and energy
+80952976	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Fatigue	Fatigue and energy	 - 	
+80953042	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Sleep	Sleep problems	Slowness	Slowness
+80952936	I have Parkinson's	60-69	6-10 years ago	Dyskinesia	Dyskinesia	Dexterity	Dexterity and coordination	 - 	
+80954031	I have Parkinson's	70-79	2-5 years ago	U 	Uncategorisable	Thermoregulation	Physiological changes	Pain	Pain and unpleasant sensations
+80953651	I have Parkinson's	60-69	2-5 years ago	Movement 	Movement	Tremor	Tremor	Tiredness	Fatigue and energy
+80956727	I have Parkinson's	60-69	6-10 years ago	Slowness	Slowness	Balance	Balance and falls	Dexterity	Dexterity and coordination
+80954713	I have Parkinson's	60-69	6-10 years ago	Moving in bed, Sleep	Movement, Sleep problems	Medication wearing off	Medication wearing off	Movement, Better treatments	Movement, Better treatment
+80954485	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Sleep	Sleep problems	Balance	Balance and falls
+80954520	I have Parkinson's	60-69	6-10 years ago	Freezing	Freezing	Balance	Balance and falls	Sleep	Sleep problems
+80956660	I have Parkinson's	60-69	2-5 years ago	Dystonia, Pain	Dystonia, Pain and unpleasant sensations	Cognitive impairment, Memory	Cognitive function	Sense of smell	Physiological changes
+80958080	I have Parkinson's	60-69	6-10 years ago	Movement 	Movement	Weakness	Weakness	 - 	
+80959221	I have Parkinson's	50-59	Less than 2 years ago	Tremor	Tremor	Cognitive impairment	Cognitive function	Coordination	Dexterity and coordination
+80958956	I have Parkinson's	30-49	Less than 2 years ago	Slowness	Slowness	Tremor	Tremor	Stiffness	Stiffness
+80959879	I have Parkinson's	70-79	2-5 years ago	Slowness, Medication wearing off	Slowness, Medication wearing off	Stiffness	Stiffness	Speech	Speech
+80962318	I have Parkinson's	60-69	Less than 2 years ago	Walking	Walking	Tremor	Tremor	Dexterity	Dexterity and coordination
+80963743	I have Parkinson's	60-69	6-10 years ago	Walking	Walking	Balance	Balance and falls	Dyskinesia	Dyskinesia
+80967317	I have Parkinson's	30-49	2-5 years ago	Tremor	Tremor	Slowness	Slowness	Stiffness	Stiffness
+80969522	I have Parkinson's	50-59	Less than 2 years ago	Movement 	Movement	Sleep	Sleep problems	Depression	Psychological health
+80968458	I have Parkinson's	60-69	6-10 years ago	Medication wearing off	Medication wearing off	Walking	Walking	 - 	
+80970660	I have Parkinson's	60-69	Less than 2 years ago	Stiffness	Stiffness	Tremor	Tremor	Dexterity	Dexterity and coordination
+80971422	I have Parkinson's	70-79	2-5 years ago	Walking, Balance	Balance and falls, Walking	Depression	Psychological health	Slowness	Slowness
+80971492	I have Parkinson's	60-69	Less than 2 years ago	Depression	Psychological health	Speech, Cognitive impairment	Speech, Cognitive function	Better care	Better care
+80971607	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Anxiety	Psychological health	Sleep	Sleep problems
+80972806	I have Parkinson's	70-79	2-5 years ago	Dexterity	Dexterity and coordination	Sleep	Sleep problems	Sleep, Unpleasant sensation	Sleep problems, Pain and unpleasant sensations
+80974129	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Eating and swallowing, Saliva problems	Physiological changes, Eating and swallowing	Walking	Walking
+80975682	I have Parkinson's	70-79	2-5 years ago	Fatigue	Fatigue and energy	Bladder	Bladder and Bowel problems	Sleep	Sleep problems
+80976104	I have Parkinson's	60-69	2-5 years ago	Freezing	Freezing	Stiffness	Stiffness	Fatigue	Fatigue and energy
+80976076	I have Parkinson's	60-69	2-5 years ago	Anxiety	Psychological health	Fatigue	Fatigue and energy	Stiffness	Stiffness
+80956681	I have Parkinson's	Over 80	2-5 years ago	Lack of energy	Fatigue and energy	Balance	Balance and falls	Dexterity	Dexterity and coordination
+80977962	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Movement	Movement	 - 	
+80977813	I have Parkinson's	60-69	Less than 2 years ago	Dexterity	Dexterity and coordination	Fitness	Fatigue and energy	 - 	
+80977641	I have Parkinson's	70-79	6-10 years ago	Pain	Pain and unpleasant sensations	Walking	Walking	Weakness, Fatigue	Weakness, Fatigue and energy
+80979785	I have Parkinson's	Over 80	2-5 years ago	Tremor	Tremor	Pain, Walking	Walking, Pain and unpleasant sensations	 - 	
+80979690	I have Parkinson's	50-59	6-10 years ago	Coordination	Dexterity and coordination	Fatigue	Fatigue and energy	U 	Uncategorisable
+80978196	I have Parkinson's	70-79	Less than 2 years ago	Tremor	Tremor	Lack of energy	Fatigue and energy	Mood	Psychological health
+80980887	I have Parkinson's	70-79	11-20 years ago	Dyskinesia	Dyskinesia	Balance, Falls	Balance and falls	Dexterity	Dexterity and coordination
+80979834	I have Parkinson's	60-69	Less than 2 years ago	Movement 	Movement	Weakness, Dexterity	Dexterity and coordination, Weakness	Anxiety	Psychological health
+80982357	I have Parkinson's	50-59	2-5 years ago	Dexterity	Dexterity and coordination	Unpleasant sensation	Pain and unpleasant sensations	Balance	Balance and falls
+80981253	I have Parkinson's	Over 80	2-5 years ago	Fatigue	Fatigue and energy	Tiredness	Fatigue and energy	Dystonia	Dystonia
+80981425	I have Parkinson's	60-69	6-10 years ago	Dyskinesia	Dyskinesia	Balance	Balance and falls	Speech	Speech
+80982722	I have Parkinson's	60-69	11-20 years ago	Bowel	Bladder and Bowel problems	Pain, Medication wearing off	Pain and unpleasant sensations, Medication wearing off	Slowness, Stiffness	Stiffness, Slowness
+80983166	I have Parkinson's	70-79	2-5 years ago	Lack of energy	Fatigue and energy	Weakness	Weakness	Apathy	Psychological health
+80981009	I have Parkinson's	70-79	2-5 years ago	Incontinence	Bladder and Bowel problems	Slowness	Slowness	Thermoregulation	Physiological changes
+80984433	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Slowness, Walking	Walking, Slowness	Balance	Balance and falls
+80986249	I have Parkinson's	70-79	6-10 years ago	Fatigue, Cognitive impairment	Fatigue and energy, Cognitive function	Coordination	Dexterity and coordination	Speech	Speech
+80986710	I have Parkinson's	60-69	Less than 2 years ago	Tremor	Tremor	Speech	Speech	 - 	
+80981368	I have Parkinson's	60-69	6-10 years ago	Walking, Slowness	Walking, Slowness	Posture, Pain	Posture, Pain and unpleasant sensations	Sleep, Tiredness	Fatigue and energy, Sleep problems
+80987693	I have Parkinson's	50-59	2-5 years ago	Tremor	Tremor	Facial expression	Facial expression	Speech	Speech
+80988461	I have Parkinson's	60-69	6-10 years ago	Fatigue	Fatigue and energy	Stiffness, Slowness, Tiredness	Stiffness, Slowness, Fatigue and energy	 - 	
+80988929	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Stiffness	Stiffness	Sleep	Sleep problems
+80986680	I have Parkinson's	Over 80	More than 20 years ago	Freezing	Freezing	Dyskinesia	Dyskinesia	Balance, Walking	Balance and falls, Walking
+80988936	I have Parkinson's	60-69	2-5 years ago	Fatigue	Fatigue and energy	Medication wearing off	Medication wearing off	Sleep	Sleep problems
+80990186	I have Parkinson's	Over 80	2-5 years ago	Sleep	Sleep problems	Weakness	Weakness	Tremor	Tremor
+80989909	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Tremor	Tremor	 - 	
+80991359	I have Parkinson's	Over 80	11-20 years ago	Walking	Walking	Speech	Speech	Dexterity	Dexterity and coordination
+80990987	I have Parkinson's	Over 80	2-5 years ago	Walking	Walking	Balance	Balance and falls	Sleep	Sleep problems
+80992039	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Stiffness	Stiffness	Sense of smell	Physiological changes
+80993987	I have Parkinson's	70-79	6-10 years ago	Anxiety, Depression	Psychological health	Tremor	Tremor	Lack of energy	Fatigue and energy
+80995824	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Balance	Balance and falls	Fatigue	Fatigue and energy
+80995709	I have Parkinson's	50-59	Less than 2 years ago	Walking	Walking	Thermoregulation	Physiological changes	Stiffness	Stiffness
+80971487	I have Parkinson's	60-69	Less than 2 years ago	Slowness, Stiffness	Stiffness, Slowness	Apathy	Psychological health	U 	Uncategorisable
+80997751	I have Parkinson's	50-59	Less than 2 years ago	Tremor	Tremor	 - 		 - 	
+80997768	I have Parkinson's	60-69	Less than 2 years ago	Stiffness, Pain	Stiffness, Pain and unpleasant sensations	Slowness	Slowness	Anxiety	Psychological health
+80955066	I have Parkinson's	70-79	Less than 2 years ago	Cognitive impairment	Cognitive function	Slowness	Slowness	 - 	
+80997722	I have Parkinson's	60-69	2-5 years ago	Balance	Balance and falls	Coordination	Dexterity and coordination	 - 	
+80995190	I have Parkinson's	50-59	Less than 2 years ago	U 	Uncategorisable	Better care	Better care	Better care	Better care
+80997709	I have Parkinson's	60-69	2-5 years ago	Posture	Posture	Freezing	Freezing	Balance	Balance and falls
+80997967	I have Parkinson's	60-69	Less than 2 years ago	Memory	Cognitive function	Anxiety	Psychological health	Fatigue	Fatigue and energy
+80999095	I have Parkinson's	70-79	2-5 years ago	Speech	Speech	Movement	Movement	Tremor	Tremor
+80999167	I have Parkinson's	60-69	6-10 years ago	Sleep	Sleep problems	Movement	Movement	 - 	
+81000236	I have Parkinson's	60-69	2-5 years ago	Walking	Walking	Dyskinesia	Dyskinesia	Freezing	Freezing
+80999360	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Movement	Movement	Balance	Balance and falls
+81001218	I have Parkinson's	70-79	6-10 years ago	Movement 	Movement	Eyes and vision, Side effects of medication	Physiological changes, Side effects of medication	 - 	
+81001683	I have Parkinson's	70-79	6-10 years ago	Fitness	Fatigue and energy	Fatigue, Daytime sleepiness	Fatigue and energy, Sleep problems	Bowel	Bladder and Bowel problems
+81002358	I have Parkinson's	50-59	Less than 2 years ago	Stiffness	Stiffness	Sleep	Sleep problems	 - 	
+81001860	I have Parkinson's	70-79	11-20 years ago	Bowel, Incontinence	Bladder and Bowel problems	Tiredness	Fatigue and energy	Weakness	Weakness
+81003692	I have Parkinson's	60-69	6-10 years ago	Speech	Speech	Movement	Movement	Cognitive impairment	Cognitive function
+81003804	I have Parkinson's	50-59	Less than 2 years ago	Slowness, Movement	Movement, Slowness	Balance	Balance and falls	Tiredness, Lack of energy	Fatigue and energy
+81004721	I have Parkinson's	60-69	11-20 years ago	Slowness	Slowness	Tremor	Tremor	Sleep	Sleep problems
+81004107	I have Parkinson's	60-69	2-5 years ago	Dexterity	Dexterity and coordination	U 	Uncategorisable	Pain	Pain and unpleasant sensations
+81005563	I have Parkinson's	60-69	2-5 years ago	Apathy	Psychological health	Sleep	Sleep problems	Fatigue	Fatigue and energy
+81005862	I have Parkinson's	Over 80	2-5 years ago	Balance	Balance and falls	Walking	Walking	 - 	
+81005863	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Sleep	Sleep problems	Fatigue	Fatigue and energy
+81004162	I have Parkinson's	70-79	11-20 years ago	Balance, Falls, Medication wearing off	Balance and falls, Medication wearing off	Sexual	Physiological changes	Eating and swallowing	Eating and swallowing
+81006823	I have Parkinson's	60-69	6-10 years ago	Sleep	Sleep problems	Bladder	Bladder and Bowel problems	 - 	
+81005078	I have Parkinson's	70-79	11-20 years ago	Posture	Posture	Slowness, Walking	Walking, Slowness	Speech	Speech
+81007136	I have Parkinson's	30-49	2-5 years ago	Movement 	Movement	Memory	Cognitive function	Side effects	Side effects of medication
+81007275	I have Parkinson's	30-49	6-10 years ago	Medication wearing off	Medication wearing off	Bowel, Breathing	Bladder and Bowel problems, Physiological changes	Anxiety, Dystonia	Dystonia, Psychological health
+81008381	I have Parkinson's	50-59	2-5 years ago	Movement 	Movement	Balance	Balance and falls	Tremor	Tremor
+81008151	I have Parkinson's	60-69	11-20 years ago	Freezing	Freezing	Falls	Balance and falls	Cognitive impairment	Cognitive function
+81009101	I have Parkinson's	60-69	2-5 years ago	Dystonia	Dystonia	Tiredness	Fatigue and energy	Sleep	Sleep problems
+81010019	I have Parkinson's	50-59	11-20 years ago	Dyskinesia	Dyskinesia	Medication wearing off	Medication wearing off	Walking, Fitness	Walking, Fatigue and energy
+81011345	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Stiffness	Stiffness	Eating and swallowing	Eating and swallowing
+81011724	I have Parkinson's	50-59	11-20 years ago	Coordination	Dexterity and coordination	Cognitive impairment, Speech	Speech, Cognitive function	Dexterity	Dexterity and coordination
+81013860	I have Parkinson's	70-79	More than 20 years ago	Speech	Speech	Dexterity	Dexterity and coordination	 - 	
+81014293	I have Parkinson's	70-79	Less than 2 years ago	Balance	Balance and falls	Apathy	Psychological health	Tremor	Tremor
+81014769	I have Parkinson's	60-69	Less than 2 years ago	Tremor	Tremor	Sense of smell	Physiological changes	Speech	Speech
+81016568	I have Parkinson's	30-49	2-5 years ago	Dystonia	Dystonia	Unpleasant sensation	Pain and unpleasant sensations	Anxiety	Psychological health
+81016661	I have Parkinson's	60-69	Less than 2 years ago	Tremor	Tremor	Pain	Pain and unpleasant sensations	Nose	Physiological changes
+81016502	I have Parkinson's	60-69	2-5 years ago	Tiredness	Fatigue and energy	Memory	Cognitive function	Balance	Balance and falls
+81017135	I have Parkinson's	60-69	6-10 years ago	Anxiety	Psychological health	Speech	Speech	Facial expression	Facial expression
+81016702	I have Parkinson's	30-49	2-5 years ago	Balance	Balance and falls	Walking	Walking	Freezing	Freezing
+81018240	I have Parkinson's	50-59	2-5 years ago	Movement 	Movement	Depression	Psychological health	Pain	Pain and unpleasant sensations
+81018004	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Sleep	Sleep problems	Fatigue	Fatigue and energy
+81019452	I have Parkinson's	50-59	2-5 years ago	Balance	Balance and falls	Tremor	Tremor	Stiffness	Stiffness
+81019303	I have Parkinson's	70-79	6-10 years ago	Movement 	Movement	Freezing	Freezing	Lack of energy	Fatigue and energy
+81017882	I have Parkinson's	70-79	11-20 years ago	Tremor	Tremor	Dystonia	Dystonia	Dyskinesia	Dyskinesia
+81019059	I have Parkinson's	60-69	11-20 years ago	Dyskinesia	Dyskinesia	Walking, Medication wearing off	Walking, Medication wearing off	 - 	
+81019514	I have Parkinson's	70-79	2-5 years ago	Speech	Speech	Bladder	Bladder and Bowel problems	 - 	
+81021475	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Psychological impact	Psychological health	Better treatments	Better treatments
+81022333	I have Parkinson's	70-79	2-5 years ago	Movement 	Movement	Apathy	Psychological health	Memory	Cognitive function
+81023559	I have Parkinson's	70-79	2-5 years ago	Movement 	Movement	Speech	Speech	Dexterity	Dexterity and coordination
+81024310	I have Parkinson's	60-69	2-5 years ago	Bladder	Bladder and Bowel problems	Posture, Walking	Walking, Posture	Balance, Walking	Balance and falls, Walking
+81025804	I have Parkinson's	50-59	Less than 2 years ago	U 	Uncategorisable	Eating and swallowing	Eating and swallowing	Dexterity	Dexterity and coordination
+81026097	I have Parkinson's	50-59	2-5 years ago	Tremor	Tremor	Balance	Balance and falls	Stiffness	Stiffness
+81025650	I have Parkinson's	70-79	6-10 years ago	Cure	Cure	Sleep	Sleep problems	Better treatments	Better treatments
+81027913	I have Parkinson's	70-79	2-5 years ago	Freezing	Freezing	Tremor	Tremor	Depression	Psychological health
+81030292	I have Parkinson's	60-69	2-5 years ago	Movement	Movement	Tiredness	Fatigue and energy	Cure	Cure
+81030581	I have Parkinson's	50-59	11-20 years ago	Stiffness	Stiffness	Slowness	Slowness	Cognitive impairment	Cognitive function
+81030555	I have Parkinson's	60-69	6-10 years ago	Freezing	Freezing	Pain	Pain and unpleasant sensations	Fatigue	Fatigue and energy
+81030805	I have Parkinson's	Over 80	2-5 years ago	Tremor	Tremor	Lack of energy	Fatigue and energy	Sleep	Sleep problems
+81030761	I have Parkinson's	Over 80	11-20 years ago	Speech	Speech	Slowness, Cognitive impairment	Slowness, Cognitive function	 - 	
+81031567	I have Parkinson's	70-79	Less than 2 years ago	Tremor	Tremor	Anxiety	Psychological health	Walking	Walking
+81032872	I have Parkinson's	60-69	6-10 years ago	Tremor	Tremor	Fatigue	Fatigue and energy	 - 	
+81033572	I have Parkinson's	50-59	2-5 years ago	Speech	Speech	Fatigue	Fatigue and energy	Sleep	Sleep problems
+81034426	I have Parkinson's	50-59	2-5 years ago	Tremor	Tremor	 - 		 - 	
+81000379	I have Parkinson's	70-79	More than 20 years ago	Better treatments	Better treatments	Balance	Balance and falls	 - 	
+81035936	I have Parkinson's	Over 80	2-5 years ago	Balance	Balance and falls	Walking	Walking	 - 	
+81038926	I have Parkinson's	60-69	2-5 years ago	Movement 	Movement	 - 		 - 	
+81039663	I have Parkinson's	30-49	2-5 years ago	Walking	Walking	 - 		 -	
+81039979	I have Parkinson's	Over 80	More than 20 years ago	Walking	Walking	Balance	Balance and falls	Speech	Speech
+81040252	I have Parkinson's	60-69	2-5 years ago	Walking	Walking	Sleep, Side effects of medication	Sleep problems, Side effects of medication	Stiffness	Stiffness
+81040715	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Dexterity	Dexterity and coordination	Bowel	Bladder and Bowel problems
+81040606	I have Parkinson's	60-69	6-10 years ago	Pain	Pain and unpleasant sensations	Cognitive impairment, Speech	Speech, Cognitive function	Bowel	Bladder and Bowel problems
+81040649	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Side effects of medication	Side effects of medication	Facial expression	Facial expression
+81040915	I have Parkinson's	60-69	2-5 years ago	Movement 	Movement	Medication wearing off	Medication wearing off	Tiredness	Fatigue and energy
+81040038	I have Parkinson's	60-69	2-5 years ago	Slowness, Walking	Walking, Slowness	Dexterity	Dexterity and coordination	Speech	Speech
+81041105	I have Parkinson's	70-79	Less than 2 years ago	Balance	Balance and falls	Speech	Speech	Tremor	Tremor
+81041856	I have Parkinson's	50-59	6-10 years ago	Fatigue	Fatigue and energy	Walking	Walking	Dexterity	Dexterity and coordination
+81041947	I have Parkinson's	70-79	11-20 years ago	Tremor	Tremor	Bladder, Bowel	Bladder and Bowel problems	Memory	Cognitive function
+81043382	I have Parkinson's	70-79	6-10 years ago	Bladder, Bowel	Bladder and Bowel problems	Slowness	Slowness	Falls, Walking	Balance and falls, Walking
+81042862	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Fatigue	Fatigue and energy	Heart and blood pressure	Physiological changes
+81043466	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Cure	Cure	Cure	Cure
+81043785	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Pain	Pain and unpleasant sensations	Better treatments	Better treatments
+81043653	I have Parkinson's	60-69	More than 20 years ago	Side effects of medication	Side effects of medication	Pain	Pain and unpleasant sensations	Stiffness	Stiffness
+81044103	I have Parkinson's	50-59	6-10 years ago	Pain	Pain and unpleasant sensations	Cognitive impairment	Cognitive function	Movement	Movement
+81041375	I have Parkinson's	Over 80	2-5 years ago	Speech	Speech	Sleep, Restless legs	Sleep problems	Freezing	Freezing
+81044816	I have Parkinson's	70-79	More than 20 years ago	Pain	Pain and unpleasant sensations	Side effects of medication	Side effects of medication	Tremor	Tremor
+81045315	I have Parkinson's	60-69	6-10 years ago	Stiffness, Pain	Stiffness, Pain and unpleasant sensations	Dystonia	Dystonia	Stiffness	Stiffness
+81045142	I have Parkinson's	60-69	2-5 years ago	Slowness	Slowness	Speech	Speech	Balance, Pain	Balance and falls, Pain and unpleasant sensations
+81046849	I have Parkinson's	60-69	2-5 years ago	Saliva problems	Physiological changes	Tiredness	Fatigue and energy	 - 	
+81046754	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Anxiety	Psychological health	Tiredness	Fatigue and energy
+81046746	I have Parkinson's	Over 80	Less than 2 years ago	Movement 	Movement	Balance	Balance and falls	Movement	Movement
+81047708	I have Parkinson's	Over 80	2-5 years ago	Speech	Speech	Saliva problems	Physiological changes	Stiffness	Stiffness
+81047136	I have Parkinson's	70-79	Less than 2 years ago	Cure	Cure	Fatigue, Tiredness	Fatigue and energy	Tremor	Tremor
+81048857	I have Parkinson's	50-59	Less than 2 years ago	Slowness	Slowness	Tremor, Stiffness	Tremor, Stiffness	Walking	Walking
+81050425	I have Parkinson's	50-59	2-5 years ago	Tremor	Tremor	Walking	Walking	Fatigue	Fatigue and energy
+81050522	I have Parkinson's	60-69	2-5 years ago	Pain	Pain and unpleasant sensations	Fatigue	Fatigue and energy	Dyskinesia	Dyskinesia
+81050293	I have Parkinson's	70-79	6-10 years ago	Speech	Speech	Balance	Balance and falls	 - 	
+81050743	I have Parkinson's	70-79	More than 20 years ago	Speech, Dexterity	Dexterity and coordination, Speech	Balance	Balance and falls	Eating and swallowing	Eating and swallowing
+80956892	I have Parkinson's	60-69	2-5 years ago	Tremor	Tremor	Speech	Speech	Stiffness	Stiffness
+81051905	I have Parkinson's	60-69	2-5 years ago	Eyes and vision	Physiological changes	Tremor	Tremor	Bowel	Bladder and Bowel problems
+81055445	I have Parkinson's	60-69	6-10 years ago	Movement, Dexterity	Movement, Dexterity and coordination	Balance	Balance and falls	Sleep	Sleep problems
+81056876	I have Parkinson's	70-79	2-5 years ago	Stiffness	Stiffness	Tremor	Tremor	Facial expression	Facial expression
+81057190	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Dexterity	Dexterity and coordination	Speech	Speech
+81056782	I have Parkinson's	70-79	6-10 years ago	Slowness, Weakness	Slowness, Weakness	Sleep	Sleep problems	Speech	Speech
+81058014	I have Parkinson's	60-69	2-5 years ago	Stiffness, Walking	Walking, Stiffness	Tremor	Tremor	 -	
+81056651	I have Parkinson's	70-79	11-20 years ago	Dyskinesia, Dexterity	Dexterity and coordination, Dyskinesia	Balance	Balance and falls	Bowel, Bladder	Bladder and Bowel problems
+81058668	I have Parkinson's	60-69	Less than 2 years ago	Tiredness	Fatigue and energy	Tremor	Tremor	Mood	Psychological health
+81059027	I have Parkinson's	70-79	More than 20 years ago	Dexterity	Dexterity and coordination	Maintaining independence	Maintaining independence 	Memory	Cognitive function
+81059900	I have Parkinson's	Over 80	2-5 years ago	Tiredness	Fatigue and energy	Slowness	Slowness	Weakness	Weakness
+81061259	I have Parkinson's	70-79	Less than 2 years ago	Movement 	Movement	Balance	Balance and falls	Cognitive impairment	Cognitive function
+81064180	I have Parkinson's	60-69	2-5 years ago	Weakness	Weakness	Confidence	Psychological health	Apathy, Depression	Psychological health
+81064832	I have Parkinson's	60-69	Less than 2 years ago	Lack of energy	Fatigue and energy	Pain	Pain and unpleasant sensations	 - 	
+81065070	I have Parkinson's	50-59	2-5 years ago	Cure	Cure	Side effects of medication	Side effects of medication	Movement	Movement
+81067607	I have Parkinson's	70-79	2-5 years ago	Pain	Pain and unpleasant sensations	Fatigue	Fatigue and energy	Slowness	Slowness
+81068835	I have Parkinson's	50-59	2-5 years ago	Stiffness, Walking	Walking, Stiffness	Memory, Cognitive impairment	Cognitive function	Dexterity	Dexterity and coordination
+81069681	I have Parkinson's	Over 80	11-20 years ago	Tremor	Tremor	Tiredness	Fatigue and energy	Balance	Balance and falls
+81070426	I have Parkinson's	70-79	6-10 years ago	Tiredness	Fatigue and energy	Depression	Psychological health	Dexterity	Dexterity and coordination
+81072287	I have Parkinson's	Over 80	11-20 years ago	Side effects of medication	Side effects of medication	Movement, Stiffness	Movement, Stiffness	Bowel, Sleep	Sleep problems, Bladder and Bowel problems
+81073736	I have Parkinson's	50-59	Less than 2 years ago	Tremor	Tremor	Sleep	Sleep problems	Memory	Cognitive function
+81076293	I have Parkinson's	70-79	6-10 years ago	Freezing	Freezing	ICB	Psychological health	Fatigue	Fatigue and energy
+81077291	I have Parkinson's	60-69	Less than 2 years ago	Pain	Pain and unpleasant sensations	Sleep	Sleep problems	Memory	Cognitive function
+81077725	I have Parkinson's	70-79	2-5 years ago	Fitness	Fatigue and energy	Bladder	Bladder and Bowel problems	Eating and swallowing	Eating and swallowing
+81079777	I have Parkinson's	70-79	11-20 years ago	U 	Uncategorisable	Movement	Movement	Fatigue	Fatigue and energy
+81079775	I have Parkinson's	Over 80	6-10 years ago	Tremor	Tremor	Cognitive impairment	Cognitive function	 - 	
+81080622	I have Parkinson's	50-59	11-20 years ago	Walking, Freezing, Falls	Balance and falls, Walking, Freezing	Sleep	Sleep problems	Medication wearing off, Better treatments	Medication wearing off, Better treatments
+81084964	I have Parkinson's	60-69	6-10 years ago	Cognitive impairment	Cognitive function	Memory	Cognitive function	Dexterity	Dexterity and coordination
+81083944	I have Parkinson's	Over 80	11-20 years ago	Walking, Balance, Freezing	Balance and falls, Walking, Freezing	Tremor	Tremor	Anxiety	Psychological health
+81087090	I have Parkinson's	60-69	6-10 years ago	Tremor	Tremor	Facial expression	Facial expression	 -	
+81087899	I have Parkinson's	70-79	11-20 years ago	Stiffness	Stiffness	Fatigue	Fatigue and energy	Eyes and vision	Physiological changes
+81088440	I have Parkinson's	60-69	Less than 2 years ago	Walking	Walking	Dexterity, Weakness	Dexterity and coordination, Weakness	Sleep	Sleep problems
+81087659	I have Parkinson's	70-79	Less than 2 years ago	Bowel	Bladder and Bowel problems	Weakness	Weakness	Bladder	Bladder and Bowel problems
+81090450	I have Parkinson's	70-79	2-5 years ago	Walking	Walking	Tiredness	Fatigue and energy	Dexterity	Dexterity and coordination
+81090702	I have Parkinson's	60-69	6-10 years ago	Walking	Walking	Pain	Pain and unpleasant sensations	Tremor	Tremor
+81091442	I have Parkinson's	70-79	2-5 years ago	Fitness	Fatigue and energy	Maintaining independence	Maintaining independence 	 - 	
+81096772	I have Parkinson's	60-69	11-20 years ago	Walking	Walking	Stiffness	Stiffness	Slowness	Slowness
+81097222	I have Parkinson's	50-59	11-20 years ago	Posture	Posture	Freezing	Freezing	Tremor	Tremor
+81097428	I have Parkinson's	70-79	Less than 2 years ago	Walking, Balance, Slowness	Balance and falls, Walking, Slowness	Speech	Speech	Facial expression	Facial expression
+81097631	I have Parkinson's	60-69	6-10 years ago	Pain	Pain and unpleasant sensations	 - 		 - 	
+81098199	I have Parkinson's	70-79	Less than 2 years ago	Tremor	Tremor	Fatigue	Fatigue and energy	 - 	
+81100919	I have Parkinson's	50-59	6-10 years ago	Walking	Walking	Movement	Movement	Slowness	Slowness
+81101030	I have Parkinson's	30-49	Less than 2 years ago	Movement 	Movement	Pain	Pain and unpleasant sensations	Sexual	Physiological changes
+81101042	I have Parkinson's	50-59	11-20 years ago	Slowness, Freezing	Slowness, Freezing	Balance	Balance and falls	Dexterity	Dexterity and coordination
+81101363	I have Parkinson's	50-59	2-5 years ago	Fatigue	Fatigue and energy	Movement	Movement	Speech	Speech
+81102196	I have Parkinson's	60-69	11-20 years ago	Psychological impact	Psychological health	Pain	Pain and unpleasant sensations	Psychological impact	Psychological health
+81103418	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Anxiety	Psychological health	Stiffness	Stiffness
+81104654	I have Parkinson's	70-79	Less than 2 years ago	Fatigue	Fatigue and energy	 - 		 - 	
+81105065	I have Parkinson's	60-69	6-10 years ago	Walking	Walking	Posture, Walking	Walking, Posture	Moving in bed	Movement
+81105962	I have Parkinson's	50-59	11-20 years ago	Dyskinesia	Dyskinesia	Bladder	Bladder and Bowel problems	Balance	Balance and falls
+81107555	I have Parkinson's	70-79	2-5 years ago	U 	Uncategorisable	Hallucinations and psychosis	Psychological health	Cognitive impairment	Cognitive function
+81107877	I have Parkinson's	50-59	Less than 2 years ago	Sleep	Sleep problems	Dexterity	Dexterity and coordination	Balance	Balance and falls
+81108159	I have Parkinson's	70-79	11-20 years ago	Walking	Walking	Balance	Balance and falls	Balance, Walking	Balance and falls, Walking
+81003173	I have Parkinson's	Over 80	6-10 years ago	Weakness	Weakness	Pain	Pain and unpleasant sensations	Speech	Speech
+81109494	I have Parkinson's	60-69	6-10 years ago	Dyskinesia	Dyskinesia	Movement	Movement	 - 	
+81109807	I have Parkinson's	70-79	11-20 years ago	Lack of energy	Fatigue and energy	Balance	Balance and falls	Speech	Speech
+81110773	I have Parkinson's	70-79	6-10 years ago	Dexterity	Dexterity and coordination	Tiredness	Fatigue and energy	Anxiety	Psychological health
+81112580	I have Parkinson's	60-69	6-10 years ago	Fatigue	Fatigue and energy	Stiffness	Stiffness	 - 	
+81114347	I have Parkinson's	70-79	6-10 years ago	Movement 	Movement	 - 		 - 	
+81116322	I have Parkinson's	60-69	Less than 2 years ago	Tremor	Tremor	Slowness	Slowness	Stiffness, Pain	Stiffness, Pain and unpleasant sensations
+81116831	I have Parkinson's	Over 80	Less than 2 years ago	Walking, Fitness	Walking, Fatigue and energy	Slowness, Walking	Walking, Slowness	Cognitive impairment	Cognitive function
+81107843	I have Parkinson's	70-79	6-10 years ago	Medication wearing off	Medication wearing off	Balance	Balance and falls	U 	Uncategorisable
+81118469	I have Parkinson's	70-79	Less than 2 years ago	Tremor	Tremor	Tremor	Tremor	Stiffness, Facial expression	Stiffness, Facial expression
+81120013	I have Parkinson's	70-79	6-10 years ago	Tiredness	Fatigue and energy	Movement	Movement	Dyskinesia	Dyskinesia
+81120800	I have Parkinson's	50-59	2-5 years ago	Walking, Balance	Balance and falls, Walking	Bowel	Bladder and Bowel problems	Eyes and vision	Physiological changes
+81123446	I have Parkinson's	60-69	Less than 2 years ago	U 	Uncategorisable	Tremor	Tremor	Balance	Balance and falls
+81123931	I have Parkinson's	70-79	2-5 years ago	Anxiety	Psychological health	Speech	Speech	Sleep	Sleep problems
+81126483	I have Parkinson's	60-69	6-10 years ago	Walking	Walking	Cognitive impairment, Fatigue	Fatigue and energy, Cognitive function	Sleep	Sleep problems
+81122860	I have Parkinson's	70-79	6-10 years ago	Tiredness	Fatigue and energy	Balance	Balance and falls	Sleep	Sleep problems
+81128077	I have Parkinson's	60-69	2-5 years ago	Fatigue, Sleep	Fatigue and energy, Sleep problems	Stiffness	Stiffness	Cognitive impairment, Speech	Speech, Cognitive function
+81128688	I have Parkinson's	70-79	2-5 years ago	Freezing, Walking	Walking, Freezing	Incontinence	Bladder and Bowel problems	Dexterity	Dexterity and coordination
+81131977	I have Parkinson's	50-59	Less than 2 years ago	Slowness	Slowness	Movement	Movement	Dexterity	Dexterity and coordination
+81139376	I have Parkinson's	70-79	Less than 2 years ago	Slowness, Dexterity	Dexterity and coordination, Slowness	Dexterity	Dexterity and coordination	Balance, Walking	Balance and falls, Walking
+81141824	I have Parkinson's	70-79	11-20 years ago	Balance, Posture	Balance and falls, Posture	Speech	Speech	Memory	Cognitive function
+81142717	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Dexterity	Dexterity and coordination	Anxiety	Psychological health
+81143030	I have Parkinson's	70-79	6-10 years ago	Cognitive impairment, Speech	Speech, Cognitive function	Slowness	Slowness	Balance	Balance and falls
+81144409	I have Parkinson's	60-69	6-10 years ago	Pain	Pain and unpleasant sensations	Dyskinesia	Dyskinesia	Falls	Balance and falls
+81147328	I have Parkinson's	30-49	2-5 years ago	Bowel	Bladder and Bowel problems	Sleep	Sleep problems	Pain	Pain and unpleasant sensations
+81148906	I have Parkinson's	60-69	6-10 years ago	Stiffness, Slowness, Movement	Movement, Stiffness	U 	Uncategorisable	Bowel, Bladder	Bladder and Bowel problems
+81163294	I have Parkinson's	50-59	11-20 years ago	Dyskinesia	Dyskinesia	Medication wearing off	Medication wearing off	Sleep	Sleep problems
+81165003	I have Parkinson's	70-79	6-10 years ago	Balance	Balance and falls	Tremor, Freezing	Tremor, Freezing	Better care	Better care
+81167173	I have Parkinson's	60-69	6-10 years ago	Tremor	Tremor	Dexterity	Dexterity and coordination	Walking	Walking
+81170058	I have Parkinson's	60-69	2-5 years ago	Tiredness	Fatigue and energy	Balance	Balance and falls	Cognitive impairment	Cognitive function
+81173199	I have Parkinson's	Over 80	2-5 years ago	Walking	Walking	Speech	Speech	Tremor	Tremor
+81176832	I have Parkinson's	60-69	2-5 years ago	Movement 	Movement	Sleep	Sleep problems	Stiffness	Stiffness
+81176885	I have Parkinson's	70-79	2-5 years ago	Weakness, Dexterity	Dexterity and coordination, Weakness	Tremor	Tremor	Bowel	Bladder and Bowel problems
+81178199	I have Parkinson's	70-79	More than 20 years ago	Freezing	Freezing	 - 		 - 	
+81182720	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Slowness, Stiffness	Stiffness, Slowness	 - 	
+81191952	I have Parkinson's	50-59	Less than 2 years ago	Tremor	Tremor	Dystonia	Dystonia	Sleep	Sleep problems
+81200424	I have Parkinson's	70-79	2-5 years ago	Tremor	Tremor	Weakness	Weakness	Cure	Cure
+81200991	I have Parkinson's	60-69	6-10 years ago	Anxiety	Psychological health	Psychological impact	Psychological health	Facial expression	Facial expression
+81209881	I have Parkinson's	60-69	2-5 years ago	Walking	Walking	Anxiety	Psychological health	Tremor	Tremor
+81231852	I have Parkinson's	50-59	2-5 years ago	Better care	Better care	Better care	Better care	Skin 	Physiological changes
+81241133	I have Parkinson's	70-79	Less than 2 years ago	Movement 	Movement	Pain	Pain and unpleasant sensations	Lack of energy	Fatigue and energy
+81251456	I have Parkinson's	60-69	11-20 years ago	Dyskinesia	Dyskinesia	Medication wearing off	Medication wearing off	Bowel	Bladder and Bowel problems
+81261871	I have Parkinson's	70-79	6-10 years ago	Dyskinesia	Dyskinesia	Anxiety, Confidence	Psychological health	Better treatments	Better treatments
+81276364	I have Parkinson's	30-49	6-10 years ago	Movement 	Movement	Speech	Speech	Anxiety	Psychological health
+81301874	I have Parkinson's	50-59	Less than 2 years ago	Better care	Better care	Better care	Better care	Pain	Pain and unpleasant sensations
+81306949	I have Parkinson's	60-69	Less than 2 years ago	Posture	Posture	Weakness	Weakness	Tremor, Dexterity	Tremor, Dexterity and coordination
+81331168	I have Parkinson's	60-69	11-20 years ago	Movement 	Movement	 - 		 - 	
+81372670	I have Parkinson's	60-69	6-10 years ago	Freezing	Freezing	Fatigue, Sleep	Fatigue and energy, Sleep problems	Speech	Speech
+81382328	I have Parkinson's	70-79	Less than 2 years ago	Sleep, Pain	Sleep problems, Pain and unpleasant sensations	Dexterity	Dexterity and coordination	Freezing	Freezing
+81385688	I have Parkinson's	70-79	11-20 years ago	Lack of energy	Fatigue and energy	Depression	Psychological health	Apathy	Psychological health
+81392160	I have Parkinson's	70-79	6-10 years ago	Freezing	Freezing	Walking, Fitness	Walking, Fatigue and energy	Speech	Speech
+81400042	I have Parkinson's	50-59	2-5 years ago	Movement 	Movement	Psychological impact	Psychological health	Better care	Better care
+81403100	I have Parkinson's	70-79	6-10 years ago	Freezing	Freezing	Slowness	Slowness	Bowel	Bladder and Bowel problems
+81416088	I have Parkinson's	70-79	6-10 years ago	Falls	Balance and falls	Sleep	Sleep problems	Better treatments	Better treatments
+81418961	I have Parkinson's	60-69	11-20 years ago	Stiffness	Stiffness	Sleep	Sleep problems	Anxiety	Psychological health
+81443148	I have Parkinson's	70-79	11-20 years ago	Tremor	Tremor	Speech	Speech	Slowness	Slowness
+81445977	I have Parkinson's	70-79	Less than 2 years ago	Tremor	Tremor	Balance	Balance and falls	Tiredness	Fatigue and energy
+81451530	I have Parkinson's	60-69	6-10 years ago	Walking	Walking	Pain	Pain and unpleasant sensations	Better treatments	Better treatments
+81459595	I have Parkinson's	70-79	6-10 years ago	Dystonia	Dystonia	Slowness	Slowness	Balance	Balance and falls
+81465472	I have Parkinson's	60-69	Less than 2 years ago	Tremor	Tremor	Stiffness	Stiffness	Tiredness	Fatigue and energy
+81471351	I have Parkinson's	70-79	Less than 2 years ago	Stiffness	Stiffness	Depression	Psychological health	Tiredness	Fatigue and energy
+81487569	I have Parkinson's	60-69	11-20 years ago	Freezing	Freezing	Dyskinesia	Dyskinesia	Dystonia	Dystonia
+81503317	I have Parkinson's	70-79	6-10 years ago	Unpleasant sensation	Pain and unpleasant sensations	Fatigue	Fatigue and energy	Thermoregulation	Physiological changes
+81505685	I have Parkinson's	60-69	6-10 years ago	Medication wearing off	Medication wearing off	Dyskinesia	Dyskinesia	Sleep	Sleep problems
+81509816	I have Parkinson's	70-79	6-10 years ago	Tremor	Tremor	Memory	Cognitive function	 - 	
+81522174	I have Parkinson's	70-79	2-5 years ago	Balance	Balance and falls	Stiffness	Stiffness	Dexterity	Dexterity and coordination
+81525689	I have Parkinson's	60-69	Less than 2 years ago	Depression, Psychological impact	Psychological health	Better treatments	Better treatments	 -	
+81569360	I have Parkinson's	50-59	11-20 years ago	Speech	Speech	Cognitive impairment	Cognitive function	Balance	Balance and falls
+81570872	I have Parkinson's	60-69	2-5 years ago	Stiffness, Moving in bed 	Stiffness, Movement	 - 		 - 	
+81565750	I have Parkinson's	Over 80	6-10 years ago	Weakness	Weakness	Fatigue	Fatigue and energy	U 	Uncategorisable
+81584220	I have Parkinson's	50-59	Less than 2 years ago	Stiffness	Stiffness	Bowel	Bladder and Bowel problems	 - 	
+81590928	I have Parkinson's	60-69	2-5 years ago	Mood	Psychological health	Stiffness	Stiffness	Eyes and vision, Medication wearing off	Physiological changes, Medication wearing off
+81607462	I have Parkinson's	50-59	Less than 2 years ago	Tremor	Tremor	Pain	Pain and unpleasant sensations	Lack of energy	Fatigue and energy
+79576144	I am a carer/partner/family member or friend	70-79	Less than 2 years ago	Balance	Balance and falls	Movement	Movement	Bowel	Bladder and Bowel problems
+79576842	I am a carer/partner/family member or friend	70-79	More than 20 years ago	Movement 	Movement	Depression	Psychological health	 - 	
+79577941	I am a carer/partner/family member or friend	50-59	2-5 years ago	Sleep	Sleep problems	Stiffness	Stiffness	Walking, Fitness	Walking, Fatigue and energy
+79578153	I am a carer/partner/family member or friend	70-79	2-5 years ago	Bowel	Bladder and Bowel problems	 -		 - 	
+79578557	I am a carer/partner/family member or friend	60-69	11-20 years ago	Dementia	Cognitive function	Medication wearing off	Medication wearing off	 - 	
+79579946	I am a carer/partner/family member or friend	70-79	6-10 years ago	Tremor	Tremor	 - 		 - 	
+79580188	I am a carer/partner/family member or friend	60-69	6-10 years ago	Movement 	Movement	 - 		 - 	
+79583982	I am a carer/partner/family member or friend	60-69	6-10 years ago	Balance	Balance and falls	Tremor	Tremor	Slowness	Slowness
+79591574	I am a carer/partner/family member or friend	Over 80	11-20 years ago	Stiffness	Stiffness	Tremor	Tremor	Speech, Eating and swallowing	Speech, Eating and swallowing
+79592508	I am a carer/partner/family member or friend	70-79	11-20 years ago	Speech, Eating and swallowing	Speech, Eating and swallowing	Eyes and vision	Physiological changes	Tremor	Tremor
+79593610	I am a carer/partner/family member or friend	70-79	Less than 2 years ago	Movement 	Movement	Confidence	Psychological health	Confidence	Psychological health
+79594861	I am a carer/partner/family member or friend	60-69	More than 20 years ago	Movement, Medication wearing off	Movement, Medication wearing off	Speech	Speech	Memory	Cognitive function
+79594896	I am a carer/partner/family member or friend	60-69	More than 20 years ago	Movement 	Movement	Speech	Speech	Memory	Cognitive function
+79601855	I am a carer/partner/family member or friend	70-79	2-5 years ago	Stiffness	Stiffness	Pain	Pain and unpleasant sensations	Tremor	Tremor
+79604579	I am a carer/partner/family member or friend	60-69	2-5 years ago	Walking, Coordination	Walking, Dexterity and coordination	 - 		 - 	
+79606693	I am a carer/partner/family member or friend	60-69	More than 20 years ago	Tremor	Tremor	Freezing	Freezing	Speech	Speech
+79607240	I am a carer/partner/family member or friend	60-69	11-20 years ago	Tremor	Tremor	Dyskinesia	Dyskinesia	Stiffness	Stiffness
+79619883	I am a carer/partner/family member or friend	70-79	More than 20 years ago	Medication wearing off	Medication wearing off	Pain	Pain and unpleasant sensations	Anxiety	Psychological health
+79628721	I am a carer/partner/family member or friend	60-69	2-5 years ago	Tremor	Tremor	Sleep	Sleep problems	Better treatments	Better treatments
+79643272	I am a carer/partner/family member or friend	70-79	2-5 years ago	Movement 	Movement	Sleep	Sleep problems	U 	Uncategorisable
+79649242	I am a carer/partner/family member or friend	50-59	2-5 years ago	Walking	Walking	Weakness	Weakness	Tremor	Tremor
+79657110	I am a carer/partner/family member or friend	60-69	6-10 years ago	Psychological impact	Psychological health	Movement	Movement	Memory	Cognitive function
+79686776	I am a carer/partner/family member or friend	60-69	6-10 years ago	Pain	Pain and unpleasant sensations	Sleep	Sleep problems	Better care	Better care
+79695904	I am a carer/partner/family member or friend	70-79	6-10 years ago	Sleep, Psychosis	Psychological health, Sleep problems	Unpleasant sensation	Pain and unpleasant sensations	Fitness	Fatigue and energy
+79702918	I am a carer/partner/family member or friend	60-69	11-20 years ago	Speech	Speech	Fatigue	Fatigue and energy	Freezing	Freezing
+79717841	I am a carer/partner/family member or friend	50-59	More than 20 years ago	Side effects, Better treatments	Side effects of medication, better treatments	Better care	Better care	Better treatments	Better treatments
+79791598	I am a carer/partner/family member or friend	70-79	Less than 2 years ago	Cognitive impairment	Cognitive function	Cognitive impairment	Cognitive function	Walking, Slowness, Fitness	Walking, Slowness, Fatigue and energy
+80919664	I am a carer/partner/family member or friend	Over 80	2-5 years ago	Movement, Freezing, Balance, Walking	Balance and falls, Movement, Walking, Freezing	Speech	Speech	Facial expression, Saliva problems	Facial expression, Physiological changes
+80919920	I am a carer/partner/family member or friend	60-69	2-5 years ago	Speech	Speech	Dexterity	Dexterity and coordination	Moving in bed	Movement
+80919888	I am a carer/partner/family member or friend	60-69	2-5 years ago	Sleep	Sleep problems	Daytime sleepiness	Sleep problems	Speech	Speech
+80920429	I am a carer/partner/family member or friend	70-79	Less than 2 years ago	Sleep	Sleep problems	Tremor	Tremor	U 	Uncategorisable
+80920926	I am a carer/partner/family member or friend	60-69	6-10 years ago	Speech	Speech	Freezing	Freezing	Dyskinesia	Dyskinesia
+80922488	I am a carer/partner/family member or friend	50-59	11-20 years ago	Speech	Speech	Tremor	Tremor	Balance	Balance and falls
+80923222	I am a carer/partner/family member or friend	60-69	6-10 years ago	Anxiety	Psychological health	Mood	Psychological health	Dystonia	Dystonia
+80923583	I am a carer/partner/family member or friend	70-79	More than 20 years ago	Pain	Pain and unpleasant sensations	Tremor	Tremor	Falls	Balance and falls
+80926025	I am a carer/partner/family member or friend	70-79	2-5 years ago	Cognitive impairment	Cognitive function	Incontinence	Bladder and Bowel problems	Stiffness, Weakness	Stiffness, Weakness
+80925744	I am a carer/partner/family member or friend	70-79	2-5 years ago	Slowness	Slowness	Lack of energy	Fatigue and energy	Sexual	Physiological changes
+80927398	I am a carer/partner/family member or friend	60-69	6-10 years ago	Movement 	Movement	Pain	Pain and unpleasant sensations	Medication wearing off	Medication wearing off
+80928372	I am a carer/partner/family member or friend	60-69	6-10 years ago	Medication wearing off	Medication wearing off	Slowness	Slowness	Balance	Balance and falls
+80928666	I am a carer/partner/family member or friend	60-69	Less than 2 years ago	Anxiety	Psychological health	Depression	Psychological health	Movement	Movement
+80929107	I am a carer/partner/family member or friend	70-79	6-10 years ago	Tremor	Tremor	Speech	Speech	Walking	Walking
+80920806	I am a carer/partner/family member or friend	60-69	2-5 years ago	Weakness	Weakness	Dystonia	Dystonia	Fatigue	Fatigue and energy
+80930614	I am a carer/partner/family member or friend	60-69	11-20 years ago	Better treatments	Better treatments	Sleep	Sleep problems	Better treatments	Better treatments
+80929016	I am a carer/partner/family member or friend	70-79	More than 20 years ago	Memory	Cognitive function	Posture, Walking	Walking, Posture	Falls	Balance and falls
+80931292	I am a carer/partner/family member or friend	70-79	11-20 years ago	Movement, Walking 	Movement, Walking	Weakness	Weakness	Tremor	Tremor
+80932547	I am a carer/partner/family member or friend	60-69	Less than 2 years ago	Dementia	Cognitive function	Sleep	Sleep problems	Anxiety	Psychological health
+80930474	I am a carer/partner/family member or friend	70-79	2-5 years ago	Cognitive impairment	Cognitive function	Dyskinesia	Dyskinesia	Anxiety	Psychological health
+80931604	I am a carer/partner/family member or friend	60-69	Less than 2 years ago	Cure	Cure	Psychological impact	Psychological health	U 	Uncategorisable
+80932933	I am a carer/partner/family member or friend	70-79	More than 20 years ago	Falls	Balance and falls	Coordination	Dexterity and coordination	Sleep	Sleep problems
+80937139	I am a carer/partner/family member or friend	70-79	2-5 years ago	Movement, Walking, Slowness	Movement, Walking, Slowness	Psychological impact	Psychological health	U 	Uncategorisable
+80940133	I am a carer/partner/family member or friend	Over 80	2-5 years ago	Eating and swallowing	Eating and swallowing	Bowel	Bladder and Bowel problems	Anxiety, Walking	Walking, Psychological health
+80938098	I am a carer/partner/family member or friend	70-79	6-10 years ago	Better treatments	Better treatments	Mood	Psychological health	Side effects of medication	Side effects of medication
+80941955	I am a carer/partner/family member or friend	70-79	6-10 years ago	Lack of energy	Fatigue and energy	Movement	Movement	Walking	Walking
+80941519	I am a carer/partner/family member or friend	70-79	11-20 years ago	Dementia	Cognitive function	Walking, Movement	Movement, Walking	Dexterity	Dexterity and coordination
+80946273	I am a carer/partner/family member or friend	70-79	6-10 years ago	Freezing	Freezing	Slowness	Slowness	Mood	Psychological health
+80950681	I am a carer/partner/family member or friend	70-79	11-20 years ago	Cognitive impairment	Cognitive function	Hallucinations and psychosis	Psychological health	Movement	Movement
+80949948	I am a carer/partner/family member or friend	60-69	2-5 years ago	Sleep	Sleep problems	Fatigue, Movement	Movement, Fatigue and energy	 - 	
+80957927	I am a carer/partner/family member or friend	60-69	11-20 years ago	Freezing	Freezing	Depression	Psychological health	Falls	Balance and falls
+80959038	I am a carer/partner/family member or friend	50-59	6-10 years ago	Pain	Pain and unpleasant sensations	Dystonia	Dystonia	Freezing	Freezing
+80965471	I am a carer/partner/family member or friend	70-79	11-20 years ago	Speech	Speech	Dexterity	Dexterity and coordination	Better treatments	Better treatments
+80970137	I am a carer/partner/family member or friend	70-79	6-10 years ago	Movement 	Movement	Memory	Cognitive function	Cognitive impairment	Cognitive function
+80971807	I am a carer/partner/family member or friend	70-79	Less than 2 years ago	Movement 	Movement	Dexterity	Dexterity and coordination	 - 	
+80972855	I am a carer/partner/family member or friend	60-69	2-5 years ago	Weakness	Weakness	Tiredness	Fatigue and energy	Better care	Better care
+80983494	I am a carer/partner/family member or friend	60-69	6-10 years ago	Dystonia	Dystonia	Tiredness	Fatigue and energy	Slowness	Slowness
+80985860	I am a carer/partner/family member or friend	70-79	2-5 years ago	Cognitive impairment	Cognitive function	Falls	Balance and falls	Tiredness, Side effects	Fatigue and energy, Side effects of medication
+80988974	I am a carer/partner/family member or friend	60-69	11-20 years ago	Walking	Walking	Speech	Speech	Heart and blood pressure	Physiological changes
+80993056	I am a carer/partner/family member or friend	70-79	2-5 years ago	Movement	Movement	Bladder	Bladder and Bowel problems	Confidence	Psychological health
+80994400	I am a carer/partner/family member or friend	Over 80	2-5 years ago	Memory	Cognitive function	Mood	Psychological health	Speech	Speech
+81004371	I am a carer/partner/family member or friend	60-69	6-10 years ago	Cognitive impairment	Cognitive function	Moving in bed	Movement	Walking	Walking
+81011469	I am a carer/partner/family member or friend	50-59	2-5 years ago	Lack of energy	Fatigue and energy	Movement	Movement	Sleep	Sleep problems
+81020869	I am a carer/partner/family member or friend	70-79	6-10 years ago	Hallucinations and psychosis	Psychological health	Anxiety	Psychological health	Speech	Speech
+81023152	I am a carer/partner/family member or friend	60-69	2-5 years ago	Facial expression	Facial expression	Tremor	Tremor	Movement	Movement
+81025146	I am a carer/partner/family member or friend	70-79	6-10 years ago	Tiredness	Fatigue and energy	 - 		 - 	
+81023885	I am a carer/partner/family member or friend	50-59	11-20 years ago	Freezing	Freezing	Falls	Balance and falls	Dyskinesia	Dyskinesia
+81027615	I am a carer/partner/family member or friend	60-69	11-20 years ago	Speech	Speech	Movement	Movement	Saliva problems	Physiological changes
+81026988	I am a carer/partner/family member or friend	60-69	11-20 years ago	Side effects of medication	Side effects of medication	Apathy	Psychological health	Mood	Psychological health
+81030487	I am a carer/partner/family member or friend	Over 80	6-10 years ago	Dexterity	Dexterity and coordination	Eating and swallowing	Eating and swallowing	Dyskinesia	Dyskinesia
+81030991	I am a carer/partner/family member or friend	70-79	2-5 years ago	Speech	Speech	Movement	Movement	 - 	
+81029533	I am a carer/partner/family member or friend	60-69	11-20 years ago	Stiffness, Pain	Stiffness, Pain and unpleasant sensations	Cognitive impairment	Cognitive function	Weakness, Pain	Weakness, Pain and unpleasant sensations
+81032029	I am a carer/partner/family member or friend	70-79	Less than 2 years ago	Freezing	Freezing	Bladder, Incontinence	Bladder and Bowel problems	Balance	Balance and falls
+81034572	I am a carer/partner/family member or friend	60-69	6-10 years ago	Side effects of medication	Side effects of medication	Bladder, Stiffness, Fatigue, Mood	Stiffness, Fatigue and energy, Psychological health, Bladder and Bowel problems	Better treatments	Better treatments
+81036505	I am a carer/partner/family member or friend	70-79	6-10 years ago	Cognitive impairment	Cognitive function	Slowness	Slowness	Tremor	Tremor
+81043164	I am a carer/partner/family member or friend	70-79	6-10 years ago	Dementia	Cognitive function	Coordination	Dexterity and coordination	Bladder	Bladder and Bowel problems
+81046357	I am a carer/partner/family member or friend	70-79	6-10 years ago	Tremor	Tremor	 - 		 - 	
+81058356	I am a carer/partner/family member or friend	70-79	6-10 years ago	Sleep	Sleep problems	Movement, Posture	Movement, Posture	Mood	Psychological health
+81076665	I am a carer/partner/family member or friend	Over 80	More than 20 years ago	Walking	Walking	Balance	Balance and falls	Heart and blood pressure	Physiological changes
+81100501	I am a carer/partner/family member or friend	30-49	6-10 years ago	Movement 	Movement	Cognitive impairment	Cognitive function	Balance	Balance and falls
+81107144	I am a carer/partner/family member or friend	70-79	2-5 years ago	Slowness, Cognitive impairment	Slowness, Cognitive function	Walking, Facial expression	Walking, Facial expression	Tiredness	Fatigue and energy
+81115656	I am a carer/partner/family member or friend	60-69	11-20 years ago	Stiffness	Stiffness	Movement	Movement	 - 	
+81117753	I am a carer/partner/family member or friend	60-69	6-10 years ago	Tremor	Tremor	Falls	Balance and falls	Stiffness	Stiffness
+81124116	I am a carer/partner/family member or friend	50-59	6-10 years ago	Speech	Speech	Confidence	Psychological health	Movement	Movement
+81128750	I am a carer/partner/family member or friend	70-79	2-5 years ago	Heart and blood pressure	Physiological changes	Fatigue	Fatigue and energy	Stiffness	Stiffness
+81141557	I am a carer/partner/family member or friend	60-69	Less than 2 years ago	Loss of independence	Maintaining independence 	Fitness	Fatigue and energy	Dexterity	Dexterity and coordination
+81142670	I am a carer/partner/family member or friend	70-79	11-20 years ago	Movement, Balance, Posture	Balance and falls, Movement, Posture	Speech	Speech	Bladder	Bladder and Bowel problems
+81148467	I am a carer/partner/family member or friend	70-79	11-20 years ago	Confidence	Psychological health	Mood, Apathy	Psychological health	Tiredness	Fatigue and energy
+81158738	I am a carer/partner/family member or friend	30-49	2-5 years ago	Dystonia	Dystonia	Dyskinesia	Dyskinesia	Confidence, Anxiety	Psychological health
+81168332	I am a carer/partner/family member or friend	70-79	11-20 years ago	Better care	Better care	Side effects of medication	Side effects of medication	U 	Uncategorisable
+81187443	I am a carer/partner/family member or friend	70-79	6-10 years ago	U 	Uncategorisable	Better care	Better care	U 	Uncategorisable
+81200621	I am a carer/partner/family member or friend	70-79	2-5 years ago	Dementia	Cognitive function	Heart and blood pressure	Physiological changes	Speech	Speech
+81266855	I am a carer/partner/family member or friend	70-79	2-5 years ago	Tremor	Tremor	Slowness	Slowness	Anxiety	Psychological health
+81288868	I am a carer/partner/family member or friend	60-69	6-10 years ago	Memory	Cognitive function	Cognitive	Cognitive function	Movement	Movement
+81343409	I am a carer/partner/family member or friend	70-79	2-5 years ago	Balance	Balance and falls	Pain	Pain and unpleasant sensations	Confidence	Psychological health
+81349502	I am a carer/partner/family member or friend	70-79	11-20 years ago	Movement 	Movement	Cognitive	Cognitive function	Incontinence	Bladder and Bowel problems
+81358080	I am a carer/partner/family member or friend	Over 80	6-10 years ago	U 	Uncategorisable	Saliva problems	Physiological changes	Tremor	Tremor
+79575447	I am a bereaved carer/partner/family member or friend	-	-	Better treatments	Better care	Falls	Balance and falls	Incontinence, Bladder	Bladder and Bowel problems
+80921644	I am a bereaved carer/partner/family member or friend	-	-	Dyskinesia	Dyskinesia	Sleep	Sleep problems	ICB	Psychological health
+80922577	I am a bereaved carer/partner/family member or friend	-	-	Memory	Cognitive function	Better care	Better care	Movement	Movement
+80931111	I am a bereaved carer/partner/family member or friend	-	-	Heart and blood pressure, Falls	Balance and falls, Physiological changes	Incontinence	Bladder and Bowel problems	Hallucinations and psychosis	Psychological health
+80947037	I am a bereaved carer/partner/family member or friend	-	-	Eating and swallowing, Saliva problems	Physiological changes, Eating and swallowing	Walking, Balance	Balance and falls, Walking	Cognitive impairment, Mood, Memory	Psychological health, Cognitive function
+81028337	I am a bereaved carer/partner/family member or friend	-	-	Speech	Speech	Movement	Movement	 - 	
+81131876	I am a bereaved carer/partner/family member or friend	-	-	Movement, Freezing	Movement, Freezing	Incontinence	Bladder and Bowel problems	Eating and swallowing	Eating and swallowing
+81165356	I am a bereaved carer/partner/family member or friend	-	-	Movement 	Movement	Eating and swallowing	Eating and swallowing	Speech	Speech
